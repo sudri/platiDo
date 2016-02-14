@@ -27,7 +27,7 @@ xcuserdata
 ## Obj-C/Swift specific
 *.hmap
 *.ipa
-
+.idea/
 # CocoaPods
 #
 # We recommend against adding the Pods directory to your .gitignore. However
