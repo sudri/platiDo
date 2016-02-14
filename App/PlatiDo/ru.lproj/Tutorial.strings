@@ -1,0 +1,114 @@
+/* Class = "UIButton"; normalTitle = "Check"; ObjectID = "1dj-f5-6hh"; */
+"1dj-f5-6hh.normalTitle" = "Проверить";
+
+/* Class = "UILabel"; text = "Personal data accept, you can do everything with me."; ObjectID = "5Za-lc-ppX"; */
+"5Za-lc-ppX.text" = "Согласен на обработку персональных данных  согласно законадательству Российской Федерации";
+
+/* Class = "UILabel"; text = "Welcome to"; ObjectID = "6q9-VA-Sy3"; */
+"6q9-VA-Sy3.text" = "Добро пожаловать в";
+
+/* Class = "UIButton"; normalTitle = "Register"; ObjectID = "27x-CL-ENM"; */
+"27x-CL-ENM.normalTitle" = "Регистрация";
+
+/* Class = "UILabel"; text = "Receipts and payments online"; ObjectID = "32Z-HT-S9h"; */
+"32Z-HT-S9h.text" = "Квитанции и платежи online";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "EOO-iK-TkL"; */
+"EOO-iK-TkL.normalTitle" = "Отмена";
+
+/* Class = "UILabel"; text = "More than 35 operating companies work with"; ObjectID = "Eu2-qI-kUf"; */
+"Eu2-qI-kUf.text" = "Более 35 управляющих компаний уже работают с";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "IAQ-gC-KVD"; */
+"IAQ-gC-KVD.normalTitle" = "Готово";
+
+/* Class = "UITextView"; text = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda."; ObjectID = "Ilm-gk-Ovx"; */
+"Ilm-gk-Ovx.text" = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.";
+
+/* Class = "UITextField"; placeholder = "Psssword"; ObjectID = "JE6-Si-wXg"; */
+"JE6-Si-wXg.placeholder" = "Пароль";
+
+/* Class = "UILabel"; text = "Reporting faults"; ObjectID = "JnV-hL-nbs"; */
+"JnV-hL-nbs.text" = "Сообщения о неисправностях";
+
+/* Class = "UITextField"; placeholder = "Last Name"; ObjectID = "KhF-Hd-xIL"; */
+"KhF-Hd-xIL.placeholder" = "Фамилия";
+
+/* Class = "UITextField"; placeholder = "Surname"; ObjectID = "L0Y-kn-ZPq"; */
+"L0Y-kn-ZPq.placeholder" = "Отчество";
+
+/* Class = "UITextField"; placeholder = "phone"; ObjectID = "LVk-c1-Ub4"; */
+"LVk-c1-Ub4.placeholder" = "Телефон";
+
+/* Class = "UITextField"; placeholder = "Home"; ObjectID = "M3Y-Ic-Xlr"; */
+"M3Y-Ic-Xlr.placeholder" = "Дом";
+
+/* Class = "UITextField"; placeholder = "Code"; ObjectID = "Ngd-iC-yIL"; */
+"Ngd-iC-yIL.placeholder" = "Код";
+
+/* Class = "UILabel"; text = "Communications and notices"; ObjectID = "RGr-Oq-cBX"; */
+"RGr-Oq-cBX.text" = "Сообщения и уведомления";
+
+/* Class = "UITextField"; placeholder = "Repeat password"; ObjectID = "TT0-bU-lr6"; */
+"TT0-bU-lr6.placeholder" = "Повторите пароль";
+
+/* Class = "UILabel"; text = "Finish registration at"; ObjectID = "TpF-gl-5va"; */
+"TpF-gl-5va.text" = "Завершите регистрацию в";
+
+/* Class = "UILabel"; text = "Code from sms from"; ObjectID = "Uvl-4o-maa"; */
+"Uvl-4o-maa.text" = "Подтвердить регистрацию";
+
+/* Class = "UILabel"; text = "I accept with"; ObjectID = "V5o-h2-XA9"; */
+"V5o-h2-XA9.text" = "Согласен с условиями использования сервиса platido";
+
+/* Class = "UILabel"; text = "After Minute You will get sms "; ObjectID = "VRL-kL-I9c"; */
+"VRL-kL-I9c.text" = "Через минуту на ваш номер придет SMS с кодом";
+
+/* Class = "UITextField"; placeholder = "Part"; ObjectID = "Ysg-IS-l2W"; */
+"Ysg-IS-l2W.placeholder" = "Корпус";
+
+/* Class = "UILabel"; text = "Your com:"; ObjectID = "ZLU-qU-vMY"; */
+"ZLU-qU-vMY.text" = "Ваша УК:";
+
+/* Class = "UILabel"; text = "Communication with the neighbors"; ObjectID = "ZrJ-LD-fgX"; */
+"ZrJ-LD-fgX.text" = "Общение с соседями";
+
+/* Class = "UITextField"; placeholder = "Name"; ObjectID = "aFo-Lv-Knv"; */
+"aFo-Lv-Knv.placeholder" = "Имя";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "fTr-be-2fK"; */
+"fTr-be-2fK.normalTitle" = "Готово";
+
+/* Class = "UILabel"; text = "Check your address"; ObjectID = "ghy-A8-Vz2"; */
+"ghy-A8-Vz2.text" = "Проверьте свой адрес";
+
+/* Class = "UILabel"; text = "Meters data"; ObjectID = "h8C-5I-Bmb"; */
+"h8C-5I-Bmb.text" = "Показания счетчиков";
+
+/* Class = "UILabel"; text = "Ideas, discussions, polls"; ObjectID = "hQa-qr-ALp"; */
+"hQa-qr-ALp.text" = "Идеи, обсуждения, опросы";
+
+/* Class = "UILabel"; text = "The all-new level of comfort to your life in a city apartment"; ObjectID = "hde-IK-4Fo"; */
+"hde-IK-4Fo.text" = "Абсолютно новый уровень комфорной жизни в вашей городской квартире";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "jTN-AJ-wNh"; */
+"jTN-AJ-wNh.normalTitle" = "Отмена";
+
+/* Class = "UILabel"; text = "General meeting of owners"; ObjectID = "kVK-p9-Pfc"; */
+"kVK-p9-Pfc.text" = "Общие собрания собственников";
+
+/* Class = "UILabel"; text = "Oh, forget password!!"; ObjectID = "pTw-oz-k69"; */
+"pTw-oz-k69.text" = "Ой! Чуть не забыли придумать пароль!";
+
+/* Class = "UIButton"; normalTitle = "Send sms again"; ObjectID = "tc8-Gx-C7G"; */
+"tc8-Gx-C7G.normalTitle" = "Отправить код еще раз";
+
+/* Class = "UITextField"; placeholder = "City"; ObjectID = "tlk-vu-9ok"; */
+"tlk-vu-9ok.placeholder" = "Город";
+
+/* Class = "UIButton"; normalTitle = "I already registered"; ObjectID = "uNZ-Hf-oDZ"; */
+"uNZ-Hf-oDZ.normalTitle" = "Я уже зарегистрирован";
+
+/* Class = "UILabel"; text = "Street"; ObjectID = "yTF-YJ-Kfx"; */
+"yTF-YJ-Kfx.text" = "Улица";
+

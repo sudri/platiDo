@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
+  <file original="PlatiDo/Base.lproj/LaunchScreen.xib" source-language="en" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="6.4" build-num="6E35b"/>
+    </header>
+    <body>
+      <trans-unit id="8ie-xW-0ye.text">
+        <source>  Copyright (c) 2015 Valera Voroshilov. All rights reserved.</source>
+        <note>Class = "UILabel"; text = "  Copyright (c) 2015 Valera Voroshilov. All rights reserved."; ObjectID = "8ie-xW-0ye";</note>
+      </trans-unit>
+      <trans-unit id="kId-c2-rCX.text">
+        <source>PlatiDo</source>
+        <note>Class = "UILabel"; text = "PlatiDo"; ObjectID = "kId-c2-rCX";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="PlatiDo/Base.lproj/Main.storyboard" source-language="en" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="6.4" build-num="6E35b"/>
+    </header>
+    <body>
+      <trans-unit id="0N3-61-vcu.normalTitle">
+        <source>Button</source>
+        <note>Class = "UIButton"; normalTitle = "Button"; ObjectID = "0N3-61-vcu";</note>
+      </trans-unit>
+      <trans-unit id="4rg-RG-p5W.text">
+        <source>Applications &amp; Reviews</source>
+        <note>Class = "UILabel"; text = "Applications &amp; Reviews"; ObjectID = "4rg-RG-p5W";</note>
+      </trans-unit>
+      <trans-unit id="6G6-Vp-pli.text">
+        <source>Main page</source>
+        <note>Class = "UILabel"; text = "Main page"; ObjectID = "6G6-Vp-pli";</note>
+      </trans-unit>
+      <trans-unit id="6Pl-JZ-VGl.text">
+        <source>2</source>
+        <note>Class = "UILabel"; text = "2"; ObjectID = "6Pl-JZ-VGl";</note>
+      </trans-unit>
+      <trans-unit id="6Uy-S4-Om0.text">
+        <source>Offers &amp; discussion</source>
+        <note>Class = "UILabel"; text = "Offers &amp; discussion"; ObjectID = "6Uy-S4-Om0";</note>
+      </trans-unit>
+      <trans-unit id="9Bw-ft-hCe.title">
+        <source>menu</source>
+        <note>Class = "UIBarButtonItem"; title = "menu"; ObjectID = "9Bw-ft-hCe";</note>
+      </trans-unit>
+      <trans-unit id="9TK-xx-uQI.text">
+        <source>9</source>
+        <note>Class = "UILabel"; text = "9"; ObjectID = "9TK-xx-uQI";</note>
+      </trans-unit>
+      <trans-unit id="91x-IF-sJW.text">
+        <source>5</source>
+        <note>Class = "UILabel"; text = "5"; ObjectID = "91x-IF-sJW";</note>
+      </trans-unit>
+      <trans-unit id="Dgb-SU-hfA.normalTitle">
+        <source>exit</source>
+        <note>Class = "UIButton"; normalTitle = "exit"; ObjectID = "Dgb-SU-hfA";</note>
+      </trans-unit>
+      <trans-unit id="Iw1-pb-3vF.text">
+        <source>8</source>
+        <note>Class = "UILabel"; text = "8"; ObjectID = "Iw1-pb-3vF";</note>
+      </trans-unit>
+      <trans-unit id="JDk-Of-BBw.normalTitle">
+        <source>ReRegistration</source>
+        <note>Class = "UIButton"; normalTitle = "ReRegistration"; ObjectID = "JDk-Of-BBw";</note>
+      </trans-unit>
+      <trans-unit id="N8T-gM-kCa.text">
+        <source>1</source>
+        <note>Class = "UILabel"; text = "1"; ObjectID = "N8T-gM-kCa";</note>
+      </trans-unit>
+      <trans-unit id="NPK-Sf-8FD.normalTitle">
+        <source>go!</source>
+        <note>Class = "UIButton"; normalTitle = "go!"; ObjectID = "NPK-Sf-8FD";</note>
+      </trans-unit>
+      <trans-unit id="OHe-IU-vrt.text">
+        <source>7</source>
+        <note>Class = "UILabel"; text = "7"; ObjectID = "OHe-IU-vrt";</note>
+      </trans-unit>
+      <trans-unit id="Qve-Bk-bIT.text">
+        <source>Settings</source>
+        <note>Class = "UILabel"; text = "Settings"; ObjectID = "Qve-Bk-bIT";</note>
+      </trans-unit>
+      <trans-unit id="RsY-gb-3OO.text">
+        <source>6</source>
+        <note>Class = "UILabel"; text = "6"; ObjectID = "RsY-gb-3OO";</note>
+      </trans-unit>
+      <trans-unit id="SoP-GD-JBW.normalTitle">
+        <source>Recover password</source>
+        <note>Class = "UIButton"; normalTitle = "Recover password"; ObjectID = "SoP-GD-JBW";</note>
+      </trans-unit>
+      <trans-unit id="WdW-gA-GCw.text">
+        <source>Counters</source>
+        <note>Class = "UILabel"; text = "Counters"; ObjectID = "WdW-gA-GCw";</note>
+      </trans-unit>
+      <trans-unit id="X1E-Db-H3R.text">
+        <source>General meeting of owners</source>
+        <note>Class = "UILabel"; text = "General meeting of owners"; ObjectID = "X1E-Db-H3R";</note>
+      </trans-unit>
+      <trans-unit id="c3f-GX-HoW.text">
+        <source>3</source>
+        <note>Class = "UILabel"; text = "3"; ObjectID = "c3f-GX-HoW";</note>
+      </trans-unit>
+      <trans-unit id="cSY-Rw-V0H.text">
+        <source>My Company</source>
+        <note>Class = "UILabel"; text = "My Company"; ObjectID = "cSY-Rw-V0H";</note>
+      </trans-unit>
+      <trans-unit id="giJ-fl-WB1.text">
+        <source>Voting</source>
+        <note>Class = "UILabel"; text = "Voting"; ObjectID = "giJ-fl-WB1";</note>
+      </trans-unit>
+      <trans-unit id="gze-OM-PVL.text">
+        <source>Password</source>
+        <note>Class = "UILabel"; text = "Password"; ObjectID = "gze-OM-PVL";</note>
+      </trans-unit>
+      <trans-unit id="nEV-Qy-KnZ.text">
+        <source>Number</source>
+        <note>Class = "UILabel"; text = "Number"; ObjectID = "nEV-Qy-KnZ";</note>
+      </trans-unit>
+      <trans-unit id="nZS-Hd-oRf.text">
+        <source>Billing  &amp; Payment</source>
+        <note>Class = "UILabel"; text = "Billing  &amp; Payment"; ObjectID = "nZS-Hd-oRf";</note>
+      </trans-unit>
+      <trans-unit id="rZz-5p-CbJ.text">
+        <source>Title</source>
+        <note>Class = "UILabel"; text = "Title"; ObjectID = "rZz-5p-CbJ";</note>
+      </trans-unit>
+      <trans-unit id="sR8-OX-YAw.text">
+        <source>4</source>
+        <note>Class = "UILabel"; text = "4"; ObjectID = "sR8-OX-YAw";</note>
+      </trans-unit>
+      <trans-unit id="w7i-HV-o7E.text">
+        <source>LOG</source>
+        <note>Class = "UILabel"; text = "LOG"; ObjectID = "w7i-HV-o7E";</note>
+      </trans-unit>
+      <trans-unit id="xVu-a8-fph.normalTitle">
+        <source>close</source>
+        <note>Class = "UIButton"; normalTitle = "close"; ObjectID = "xVu-a8-fph";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="PlatiDo/Info.plist" source-language="en" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="6.4" build-num="6E35b"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleName">
+        <source>$(PRODUCT_NAME)</source>
+      </trans-unit>
+      <trans-unit id="CFBundleShortVersionString">
+        <source>1.0</source>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="PlatiDoTests/Info.plist" source-language="en" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="6.4" build-num="6E35b"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleName">
+        <source>$(PRODUCT_NAME)</source>
+      </trans-unit>
+      <trans-unit id="CFBundleShortVersionString">
+        <source>1.0</source>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

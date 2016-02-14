@@ -1,0 +1,18 @@
+/* Class = "UILabel"; text = "Problem description"; ObjectID = "74e-BE-dVy"; */
+"74e-BE-dVy.text" = "Суть проблемы";
+
+/* Class = "UILabel"; text = "Status"; ObjectID = "534-k7-e2f"; */
+"534-k7-e2f.text" = "Статус";
+
+/* Class = "UILabel"; text = "Big title for ticket"; ObjectID = "Las-Kg-O19"; */
+"Las-Kg-O19.text" = "Заголовок заявки";
+
+/* Class = "UILabel"; text = "Yersterday"; ObjectID = "NaC-FJ-T8P"; */
+"NaC-FJ-T8P.text" = "Вчера";
+
+/* Class = "UITextView"; text = "Lorem ipsum dolor sit er elit lamet elit lametelit lamet"; ObjectID = "Q9O-4e-XQI"; */
+"Q9O-4e-XQI.text" = "Описание проблемы";
+
+/* Class = "UILabel"; text = "Status:"; ObjectID = "RK9-4K-cKS"; */
+"RK9-4K-cKS.text" = "Статус:";
+

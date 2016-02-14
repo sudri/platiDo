@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="9059" systemVersion="15B42" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES">
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="9049"/>
+    </dependencies>
+    <customFonts key="customFonts">
+        <mutableArray key="SF-UI-Display-Regular.ttf">
+            <string>SFUIDisplay-Regular</string>
+            <string>SFUIDisplay-Regular</string>
+            <string>SFUIDisplay-Regular</string>
+            <string>SFUIDisplay-Regular</string>
+            <string>SFUIDisplay-Regular</string>
+        </mutableArray>
+    </customFonts>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="LikeUnlikePanel">
+            <connections>
+                <outlet property="disLikeImg" destination="ZWj-fg-ikS" id="cgS-cK-mim"/>
+                <outlet property="likeCountLbl" destination="Ifx-bd-ygd" id="b0o-8M-OC7"/>
+                <outlet property="likeImg" destination="RrY-fp-G8z" id="QdC-Ig-sC4"/>
+                <outlet property="unlikeCountLbl" destination="jpl-MZ-MY3" id="Hqy-tu-NNI"/>
+            </connections>
+        </placeholder>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="iN0-l3-epB">
+            <rect key="frame" x="0.0" y="0.0" width="197" height="28"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="1mP-6X-JKl">
+                    <rect key="frame" x="0.0" y="0.0" width="211" height="28"/>
+                    <subviews>
+                        <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Ifx-bd-ygd">
+                            <rect key="frame" x="0.0" y="0.0" width="57" height="28"/>
+                            <animations/>
+                            <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+                            <constraints>
+                                <constraint firstAttribute="width" constant="64" id="N4F-m9-8Re"/>
+                                <constraint firstAttribute="height" constant="29" id="xMR-7N-aPF"/>
+                            </constraints>
+                            <fontDescription key="fontDescription" name="SFUIDisplay-Regular" family="SF UI Display" pointSize="13"/>
+                            <color key="tintColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+                            <state key="normal" title="Нравится">
+                                <color key="titleColor" red="0.13725490200000001" green="0.27058823529999998" blue="0.67450980390000004" alpha="1" colorSpace="calibratedRGB"/>
+                            </state>
+                            <state key="disabled">
+                                <color key="titleColor" white="0.66666666666666663" alpha="1" colorSpace="calibratedWhite"/>
+                            </state>
+                            <state key="selected">
+                                <color key="titleColor" red="0.72156862749999995" green="0.76470588240000004" blue="0.89411764709999997" alpha="1" colorSpace="calibratedRGB"/>
+                                <color key="titleShadowColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+                            </state>
+                            <variation key="default">
+                                <mask key="constraints">
+                                    <exclude reference="N4F-m9-8Re"/>
+                                    <exclude reference="xMR-7N-aPF"/>
+                                </mask>
+                            </variation>
+                            <connections>
+                                <action selector="likeTapped:" destination="-1" eventType="touchUpInside" id="LsZ-Ax-1AR"/>
+                            </connections>
+                        </button>
+                        <button opaque="NO" userInteractionEnabled="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="RrY-fp-G8z" userLabel="like">
+                            <rect key="frame" x="57" y="5" width="26" height="18"/>
+                            <animations/>
+                            <constraints>
+                                <constraint firstAttribute="height" constant="29" id="fT2-AZ-oMV"/>
+                            </constraints>
+                            <fontDescription key="fontDescription" name="SFUIDisplay-Regular" family="SF UI Display" pointSize="13"/>
+                            <state key="normal" title="0" image="ic_like_blue">
+                                <color key="titleColor" red="0.13725490200000001" green="0.27058823529999998" blue="0.67450980390000004" alpha="1" colorSpace="calibratedRGB"/>
+                            </state>
+                            <state key="disabled">
+                                <color key="titleColor" white="0.66666666666666663" alpha="1" colorSpace="calibratedWhite"/>
+                            </state>
+                            <state key="selected" image="ic_like_blue_50">
+                                <color key="titleColor" red="0.72156862745098038" green="0.76470588235294112" blue="0.89411764705882357" alpha="1" colorSpace="calibratedRGB"/>
+                            </state>
+                            <variation key="default">
+                                <mask key="constraints">
+                                    <exclude reference="fT2-AZ-oMV"/>
+                                </mask>
+                            </variation>
+                        </button>
+                        <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="jpl-MZ-MY3">
+                            <rect key="frame" x="106" y="0.0" width="78" height="28"/>
+                            <animations/>
+                            <fontDescription key="fontDescription" name="SFUIDisplay-Regular" family="SF UI Display" pointSize="13"/>
+                            <color key="tintColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+                            <state key="normal" title="Не нравится ">
+                                <color key="titleColor" red="0.13725490200000001" green="0.27058823529999998" blue="0.67450980390000004" alpha="1" colorSpace="calibratedRGB"/>
+                            </state>
+                            <state key="disabled">
+                                <color key="titleColor" white="0.66666666666666663" alpha="1" colorSpace="calibratedWhite"/>
+                            </state>
+                            <state key="selected">
+                                <color key="titleColor" red="0.72156862745098038" green="0.76470588235294112" blue="0.89411764705882346" alpha="1" colorSpace="calibratedRGB"/>
+                            </state>
+                            <connections>
+                                <action selector="unlikeTapped:" destination="-1" eventType="touchUpInside" id="s2t-mm-hvq"/>
+                            </connections>
+                        </button>
+                        <button opaque="NO" userInteractionEnabled="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="ZWj-fg-ikS" userLabel="dislike">
+                            <rect key="frame" x="184" y="5" width="27" height="18"/>
+                            <animations/>
+                            <constraints>
+                                <constraint firstAttribute="height" constant="22" id="7eZ-3n-VbL"/>
+                            </constraints>
+                            <fontDescription key="fontDescription" name="SFUIDisplay-Regular" family="SF UI Display" pointSize="13"/>
+                            <inset key="contentEdgeInsets" minX="0.0" minY="0.0" maxX="1" maxY="0.0"/>
+                            <state key="normal" title="0" image="ic_dis_like">
+                                <color key="titleColor" red="0.13725490196078433" green="0.27058823529411763" blue="0.67450980392156867" alpha="1" colorSpace="calibratedRGB"/>
+                            </state>
+                            <state key="disabled">
+                                <color key="titleColor" white="0.66666666666666663" alpha="1" colorSpace="calibratedWhite"/>
+                            </state>
+                            <state key="selected" image="ic_dis_like_50">
+                                <color key="titleColor" red="0.35686274509999999" green="0.45098039220000002" blue="0.76078431369999999" alpha="1" colorSpace="calibratedRGB"/>
+                            </state>
+                            <variation key="default">
+                                <mask key="constraints">
+                                    <exclude reference="7eZ-3n-VbL"/>
+                                </mask>
+                            </variation>
+                        </button>
+                        <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="•" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="o5s-q0-9V4">
+                            <rect key="frame" x="91" y="0.0" width="7" height="28"/>
+                            <animations/>
+                            <fontDescription key="fontDescription" name="SFUIDisplay-Regular" family="SF UI Display" pointSize="13"/>
+                            <color key="textColor" white="0.66666666666666663" alpha="1" colorSpace="calibratedWhite"/>
+                            <nil key="highlightedColor"/>
+                        </label>
+                    </subviews>
+                    <animations/>
+                    <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+                    <constraints>
+                        <constraint firstItem="o5s-q0-9V4" firstAttribute="top" secondItem="1mP-6X-JKl" secondAttribute="top" id="3Nh-OO-jNV"/>
+                        <constraint firstItem="Ifx-bd-ygd" firstAttribute="top" secondItem="1mP-6X-JKl" secondAttribute="top" id="8am-3X-FPu"/>
+                        <constraint firstItem="o5s-q0-9V4" firstAttribute="leading" secondItem="RrY-fp-G8z" secondAttribute="trailing" constant="8" id="AMp-fX-rO6"/>
+                        <constraint firstAttribute="bottom" secondItem="Ifx-bd-ygd" secondAttribute="bottom" id="AsR-CR-3kt"/>
+                        <constraint firstItem="jpl-MZ-MY3" firstAttribute="top" secondItem="1mP-6X-JKl" secondAttribute="top" id="BVS-Ks-Deb"/>
+                        <constraint firstAttribute="bottom" secondItem="o5s-q0-9V4" secondAttribute="bottom" id="Iwp-df-GIa"/>
+                        <constraint firstAttribute="trailing" secondItem="ZWj-fg-ikS" secondAttribute="trailing" id="OhC-33-gND"/>
+                        <constraint firstItem="ZWj-fg-ikS" firstAttribute="centerY" secondItem="jpl-MZ-MY3" secondAttribute="centerY" id="QmU-EK-5lX"/>
+                        <constraint firstItem="Ifx-bd-ygd" firstAttribute="leading" secondItem="1mP-6X-JKl" secondAttribute="leading" id="T0M-ae-ZO0"/>
+                        <constraint firstItem="jpl-MZ-MY3" firstAttribute="leading" secondItem="o5s-q0-9V4" secondAttribute="trailing" constant="8" id="XVX-U6-Nbc"/>
+                        <constraint firstItem="RrY-fp-G8z" firstAttribute="leading" secondItem="Ifx-bd-ygd" secondAttribute="trailing" id="aDX-aG-dM0"/>
+                        <constraint firstAttribute="bottom" secondItem="jpl-MZ-MY3" secondAttribute="bottom" id="lgQ-eo-uzP"/>
+                        <constraint firstItem="ZWj-fg-ikS" firstAttribute="leading" secondItem="jpl-MZ-MY3" secondAttribute="trailing" id="oGX-CD-NYH"/>
+                        <constraint firstItem="ZWj-fg-ikS" firstAttribute="leading" secondItem="o5s-q0-9V4" secondAttribute="trailing" id="oqX-yW-UWJ"/>
+                        <constraint firstItem="RrY-fp-G8z" firstAttribute="centerY" secondItem="Ifx-bd-ygd" secondAttribute="centerY" id="rLc-5g-bzx"/>
+                        <constraint firstItem="jpl-MZ-MY3" firstAttribute="leading" secondItem="RrY-fp-G8z" secondAttribute="trailing" constant="10" id="zX5-xw-Xhi"/>
+                    </constraints>
+                    <variation key="default">
+                        <mask key="constraints">
+                            <exclude reference="zX5-xw-Xhi"/>
+                            <exclude reference="oqX-yW-UWJ"/>
+                        </mask>
+                    </variation>
+                </view>
+            </subviews>
+            <animations/>
+            <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+            <constraints>
+                <constraint firstAttribute="bottom" secondItem="1mP-6X-JKl" secondAttribute="bottom" id="6Mq-kC-PKj"/>
+                <constraint firstItem="1mP-6X-JKl" firstAttribute="leading" secondItem="iN0-l3-epB" secondAttribute="leading" id="EZS-dn-awN"/>
+                <constraint firstAttribute="trailing" secondItem="1mP-6X-JKl" secondAttribute="trailing" id="Nyk-nn-4Ce"/>
+                <constraint firstItem="1mP-6X-JKl" firstAttribute="top" secondItem="iN0-l3-epB" secondAttribute="top" id="wMA-Q2-eCy"/>
+            </constraints>
+            <nil key="simulatedStatusBarMetrics"/>
+            <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+            <variation key="default">
+                <mask key="constraints">
+                    <exclude reference="6Mq-kC-PKj"/>
+                    <exclude reference="Nyk-nn-4Ce"/>
+                </mask>
+            </variation>
+            <point key="canvasLocation" x="547.5" y="578"/>
+        </view>
+    </objects>
+    <resources>
+        <image name="ic_dis_like" width="18" height="18"/>
+        <image name="ic_dis_like_50" width="18" height="18"/>
+        <image name="ic_like_blue" width="18" height="18"/>
+        <image name="ic_like_blue_50" width="18" height="18"/>
+    </resources>
+</document>

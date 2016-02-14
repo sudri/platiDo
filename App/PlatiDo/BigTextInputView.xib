@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="8191" systemVersion="14F27" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES">
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="8154"/>
+    </dependencies>
+    <customFonts key="customFonts">
+        <mutableArray key="SF-UI-Display-Regular.otf">
+            <string>SFUIDisplay-Regular</string>
+        </mutableArray>
+    </customFonts>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="BigTextInputView">
+            <connections>
+                <outlet property="sepH" destination="tLD-Uv-eew" id="GU8-GC-pJh"/>
+                <outlet property="separator" destination="Equ-aP-0l4" id="OKP-6G-3it"/>
+                <outlet property="textContentH" destination="fRB-n5-4bO" id="7im-xs-hVk"/>
+                <outlet property="textView" destination="vdC-Vc-y9x" id="4DE-j5-tPV"/>
+            </connections>
+        </placeholder>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view autoresizesSubviews="NO" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" id="jyk-bg-Ue9">
+            <rect key="frame" x="0.0" y="0.0" width="281" height="49"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" text="Lorem ipsum dolor sit er elit lamet" translatesAutoresizingMaskIntoConstraints="NO" id="vdC-Vc-y9x" customClass="UIPlaceHolderTextView">
+                    <rect key="frame" x="8" y="2" width="265" height="39"/>
+                    <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+                    <constraints>
+                        <constraint firstAttribute="height" constant="39" id="fRB-n5-4bO"/>
+                    </constraints>
+                    <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                    <fontDescription key="fontDescription" name="SFUIDisplay-Regular" family="SF UI Display" pointSize="15"/>
+                    <textInputTraits key="textInputTraits" autocapitalizationType="sentences" autocorrectionType="no"/>
+                    <connections>
+                        <outlet property="delegate" destination="-1" id="lJb-Mu-GQ8"/>
+                    </connections>
+                </textView>
+                <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="Equ-aP-0l4" userLabel="Separator">
+                    <rect key="frame" x="1" y="41" width="278" height="1"/>
+                    <color key="backgroundColor" red="0.60392156862745094" green="0.60392156862745094" blue="0.60392156862745094" alpha="1" colorSpace="calibratedRGB"/>
+                    <constraints>
+                        <constraint firstAttribute="height" constant="1" id="tLD-Uv-eew"/>
+                    </constraints>
+                </view>
+            </subviews>
+            <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+            <constraints>
+                <constraint firstItem="Equ-aP-0l4" firstAttribute="top" secondItem="vdC-Vc-y9x" secondAttribute="bottom" id="9M0-yP-Lj6"/>
+                <constraint firstItem="vdC-Vc-y9x" firstAttribute="leading" secondItem="jyk-bg-Ue9" secondAttribute="leading" constant="8" id="PYe-nd-vfS"/>
+                <constraint firstItem="vdC-Vc-y9x" firstAttribute="top" secondItem="jyk-bg-Ue9" secondAttribute="top" constant="2" id="Tnw-j2-fPz"/>
+                <constraint firstAttribute="trailing" secondItem="Equ-aP-0l4" secondAttribute="trailing" constant="2" id="jXd-7A-HWQ"/>
+                <constraint firstItem="vdC-Vc-y9x" firstAttribute="height" secondItem="jyk-bg-Ue9" secondAttribute="height" constant="-10" id="pPe-Hm-kdW"/>
+                <constraint firstItem="Equ-aP-0l4" firstAttribute="leading" secondItem="jyk-bg-Ue9" secondAttribute="leading" constant="1" id="qaf-uS-eh1"/>
+                <constraint firstAttribute="trailing" secondItem="vdC-Vc-y9x" secondAttribute="trailing" constant="8" id="u4f-Jm-Xih"/>
+            </constraints>
+            <nil key="simulatedStatusBarMetrics"/>
+            <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+            <point key="canvasLocation" x="202.5" y="-671.5"/>
+        </view>
+    </objects>
+</document>

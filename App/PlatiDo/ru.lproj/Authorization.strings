@@ -1,0 +1,48 @@
+/* Class = "UILabel"; text = "Authorization"; ObjectID = "2Nj-Ih-euc"; */
+"2Nj-Ih-euc.text" = "Авторизация";
+
+/* Class = "UITextField"; placeholder = "Phone"; ObjectID = "2ye-ae-m9d"; */
+"2ye-ae-m9d.placeholder" = "Телефон";
+
+/* Class = "UILabel"; text = "Access recover"; ObjectID = "FsL-xQ-dqa"; */
+"FsL-xQ-dqa.text" = "Восстановление пароля";
+
+/* Class = "UITextField"; placeholder = "Phone"; ObjectID = "Jrf-4s-8Ut"; */
+"Jrf-4s-8Ut.placeholder" = "Телефон";
+
+/* Class = "UILabel"; text = "Access recover"; ObjectID = "LnU-RI-1qr"; */
+"LnU-RI-1qr.text" = "Восстановление пароля";
+
+/* Class = "UIButton"; normalTitle = "Check"; ObjectID = "MBG-9H-uix"; */
+"MBG-9H-uix.normalTitle" = "Далее";
+
+/* Class = "UIButton"; normalTitle = "Register"; ObjectID = "T3V-lo-cYc"; */
+"T3V-lo-cYc.normalTitle" = "Регистрация";
+
+/* Class = "UILabel"; text = "Access recover"; ObjectID = "TMb-Pd-tOY"; */
+"TMb-Pd-tOY.text" = "Восстановление пароля";
+
+/* Class = "UIButton"; normalTitle = "Check"; ObjectID = "Y9E-oL-mg4"; */
+"Y9E-oL-mg4.normalTitle" = "Далее";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "Z37-Q1-YpW"; */
+"Z37-Q1-YpW.placeholder" = "Пароль";
+
+/* Class = "UIButton"; normalTitle = "Check"; ObjectID = "af6-pw-fhe"; */
+"af6-pw-fhe.normalTitle" = "Далее";
+
+/* Class = "UITextField"; placeholder = "Confirm password"; ObjectID = "bAh-n5-msJ"; */
+"bAh-n5-msJ.placeholder" = "Повторите пароль";
+
+/* Class = "UITextField"; placeholder = "sms"; ObjectID = "cWS-lD-ydV"; */
+"cWS-lD-ydV.placeholder" = "sms";
+
+/* Class = "UITextField"; placeholder = "password"; ObjectID = "fOm-Os-kNj"; */
+"fOm-Os-kNj.placeholder" = "пароль";
+
+/* Class = "UIButton"; normalTitle = "Recover"; ObjectID = "frb-g3-ulO"; */
+"frb-g3-ulO.normalTitle" = "Забыли пароль?";
+
+/* Class = "UIButton"; normalTitle = "Check"; ObjectID = "iEJ-8v-97H"; */
+"iEJ-8v-97H.normalTitle" = "Далее";
+

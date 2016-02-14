@@ -1,0 +1,1706 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
+  <file original="PlatiDo/Base.lproj/Authorization.storyboard" source-language="en" datatype="plaintext" target-language="ru">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.0" build-num="7A218"/>
+    </header>
+    <body>
+      <trans-unit id="2Nj-Ih-euc.text">
+        <source>Authorization</source>
+        <target>Авторизация</target>
+        <note>Class = "UILabel"; text = "Authorization"; ObjectID = "2Nj-Ih-euc";</note>
+      </trans-unit>
+      <trans-unit id="2ye-ae-m9d.placeholder">
+        <source>Phone</source>
+        <target>Телефон</target>
+        <note>Class = "UITextField"; placeholder = "Phone"; ObjectID = "2ye-ae-m9d";</note>
+      </trans-unit>
+      <trans-unit id="5uk-HZ-Y76.text">
+        <source>Телефон</source>
+        <note>Class = "UILabel"; text = "Телефон"; ObjectID = "5uk-HZ-Y76";</note>
+      </trans-unit>
+      <trans-unit id="DbG-GW-mLG.text">
+        <source>Введите смс код</source>
+        <note>Class = "UILabel"; text = "Введите смс код"; ObjectID = "DbG-GW-mLG";</note>
+      </trans-unit>
+      <trans-unit id="FsL-xQ-dqa.text">
+        <source>Access recover</source>
+        <target>Восстановление пароля</target>
+        <note>Class = "UILabel"; text = "Access recover"; ObjectID = "FsL-xQ-dqa";</note>
+      </trans-unit>
+      <trans-unit id="Jrf-4s-8Ut.placeholder">
+        <source>Phone</source>
+        <target>Телефон</target>
+        <note>Class = "UITextField"; placeholder = "Phone"; ObjectID = "Jrf-4s-8Ut";</note>
+      </trans-unit>
+      <trans-unit id="LnU-RI-1qr.text">
+        <source>Access recover</source>
+        <target>Восстановление пароля</target>
+        <note>Class = "UILabel"; text = "Access recover"; ObjectID = "LnU-RI-1qr";</note>
+      </trans-unit>
+      <trans-unit id="MBG-9H-uix.normalTitle">
+        <source>Check</source>
+        <target>Далее</target>
+        <note>Class = "UIButton"; normalTitle = "Check"; ObjectID = "MBG-9H-uix";</note>
+      </trans-unit>
+      <trans-unit id="T3V-lo-cYc.normalTitle">
+        <source>Register</source>
+        <target>Регистрация</target>
+        <note>Class = "UIButton"; normalTitle = "Register"; ObjectID = "T3V-lo-cYc";</note>
+      </trans-unit>
+      <trans-unit id="TMb-Pd-tOY.text">
+        <source>Access recover</source>
+        <target>Восстановление пароля</target>
+        <note>Class = "UILabel"; text = "Access recover"; ObjectID = "TMb-Pd-tOY";</note>
+      </trans-unit>
+      <trans-unit id="Y9E-oL-mg4.normalTitle">
+        <source>Check</source>
+        <target>Далее</target>
+        <note>Class = "UIButton"; normalTitle = "Check"; ObjectID = "Y9E-oL-mg4";</note>
+      </trans-unit>
+      <trans-unit id="Z37-Q1-YpW.placeholder">
+        <source>Password</source>
+        <target>Пароль</target>
+        <note>Class = "UITextField"; placeholder = "Password"; ObjectID = "Z37-Q1-YpW";</note>
+      </trans-unit>
+      <trans-unit id="af6-pw-fhe.normalTitle">
+        <source>Check</source>
+        <target>Далее</target>
+        <note>Class = "UIButton"; normalTitle = "Check"; ObjectID = "af6-pw-fhe";</note>
+      </trans-unit>
+      <trans-unit id="bAh-n5-msJ.placeholder">
+        <source>Confirm password</source>
+        <target>Повторите пароль</target>
+        <note>Class = "UITextField"; placeholder = "Confirm password"; ObjectID = "bAh-n5-msJ";</note>
+      </trans-unit>
+      <trans-unit id="cWS-lD-ydV.placeholder">
+        <source>sms</source>
+        <target>sms</target>
+        <note>Class = "UITextField"; placeholder = "sms"; ObjectID = "cWS-lD-ydV";</note>
+      </trans-unit>
+      <trans-unit id="fMd-xq-6zI.text">
+        <source>Придумайте пароль</source>
+        <note>Class = "UILabel"; text = "Придумайте пароль"; ObjectID = "fMd-xq-6zI";</note>
+      </trans-unit>
+      <trans-unit id="fOm-Os-kNj.placeholder">
+        <source>password</source>
+        <target>пароль</target>
+        <note>Class = "UITextField"; placeholder = "password"; ObjectID = "fOm-Os-kNj";</note>
+      </trans-unit>
+      <trans-unit id="frb-g3-ulO.normalTitle">
+        <source>Recover</source>
+        <target>Забыли пароль?</target>
+        <note>Class = "UIButton"; normalTitle = "Recover"; ObjectID = "frb-g3-ulO";</note>
+      </trans-unit>
+      <trans-unit id="hAn-Lt-sZg.text">
+        <source>+7</source>
+        <note>Class = "UILabel"; text = "+7"; ObjectID = "hAn-Lt-sZg";</note>
+      </trans-unit>
+      <trans-unit id="iEJ-8v-97H.normalTitle">
+        <source>Check</source>
+        <target>Далее</target>
+        <note>Class = "UIButton"; normalTitle = "Check"; ObjectID = "iEJ-8v-97H";</note>
+      </trans-unit>
+      <trans-unit id="sxI-ap-Gu5.text">
+        <source>+7</source>
+        <note>Class = "UILabel"; text = "+7"; ObjectID = "sxI-ap-Gu5";</note>
+      </trans-unit>
+      <trans-unit id="wHo-Wt-9pN.text">
+        <source>Поторите пароль</source>
+        <note>Class = "UILabel"; text = "Поторите пароль"; ObjectID = "wHo-Wt-9pN";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="PlatiDo/Base.lproj/CommentDiscussionView.xib" source-language="en" datatype="plaintext" target-language="ru">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.0" build-num="7A218"/>
+    </header>
+    <body>
+      <trans-unit id="OTl-kz-EPg.text">
+        <source>Label</source>
+        <note>Class = "UILabel"; text = "Label"; ObjectID = "OTl-kz-EPg";</note>
+      </trans-unit>
+      <trans-unit id="QFg-kj-9mq.text">
+        <source>Title</source>
+        <note>Class = "UILabel"; text = "Title"; ObjectID = "QFg-kj-9mq";</note>
+      </trans-unit>
+      <trans-unit id="eKq-r5-DYE.normalTitle">
+        <source>response</source>
+        <target>Ответить</target>
+        <note>Class = "UIButton"; normalTitle = "response"; ObjectID = "eKq-r5-DYE";</note>
+      </trans-unit>
+      <trans-unit id="kbJ-Mg-V4y.text">
+        <source>Text Text</source>
+        <note>Class = "UILabel"; text = "Text Text"; ObjectID = "kbJ-Mg-V4y";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="PlatiDo/Base.lproj/CustomHeaderView.xib" source-language="en" datatype="plaintext" target-language="ru">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.0" build-num="7A218"/>
+    </header>
+    <body>
+      <trans-unit id="74e-BE-dVy.text">
+        <source>Problem description</source>
+        <target>Суть проблемы</target>
+        <note>Class = "UILabel"; text = "Problem description"; ObjectID = "74e-BE-dVy";</note>
+      </trans-unit>
+      <trans-unit id="534-k7-e2f.text">
+        <source>Status</source>
+        <target>Статус</target>
+        <note>Class = "UILabel"; text = "Status"; ObjectID = "534-k7-e2f";</note>
+      </trans-unit>
+      <trans-unit id="Las-Kg-O19.text">
+        <source>Big title for ticket</source>
+        <target>Заголовок заявки</target>
+        <note>Class = "UILabel"; text = "Big title for ticket"; ObjectID = "Las-Kg-O19";</note>
+      </trans-unit>
+      <trans-unit id="NaC-FJ-T8P.text">
+        <source>Yersterday</source>
+        <target>Вчера</target>
+        <note>Class = "UILabel"; text = "Yersterday"; ObjectID = "NaC-FJ-T8P";</note>
+      </trans-unit>
+      <trans-unit id="Q9O-4e-XQI.text">
+        <source>Lorem ipsum dolor sit er elit lamet elit lametelit lamet</source>
+        <target>Описание проблемы</target>
+        <note>Class = "UITextView"; text = "Lorem ipsum dolor sit er elit lamet elit lametelit lamet"; ObjectID = "Q9O-4e-XQI";</note>
+      </trans-unit>
+      <trans-unit id="RK9-4K-cKS.text">
+        <source>Status:</source>
+        <target>Статус:</target>
+        <note>Class = "UILabel"; text = "Status:"; ObjectID = "RK9-4K-cKS";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="PlatiDo/Base.lproj/LaunchScreen.xib" source-language="en" datatype="plaintext" target-language="ru">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.0" build-num="7A218"/>
+    </header>
+    <body>
+      <trans-unit id="8ie-xW-0ye.text">
+        <source>  Copyright (c) 2015 Valera Voroshilov. All rights reserved.</source>
+        <target>  Copyright (c) 2015 Valera Voroshilov. All rights reserved.</target>
+        <note>Class = "UILabel"; text = "  Copyright (c) 2015 Valera Voroshilov. All rights reserved."; ObjectID = "8ie-xW-0ye";</note>
+      </trans-unit>
+      <trans-unit id="kId-c2-rCX.text">
+        <source>platido</source>
+        <target>PlatiDo</target>
+        <note>Class = "UILabel"; text = "platido"; ObjectID = "kId-c2-rCX";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="PlatiDo/Base.lproj/Main.storyboard" source-language="en" datatype="plaintext" target-language="ru">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.0" build-num="7A218"/>
+    </header>
+    <body>
+      <trans-unit id="0HH-Zp-ma1.text">
+        <source>Label</source>
+        <note>Class = "UILabel"; text = "Label"; ObjectID = "0HH-Zp-ma1";</note>
+      </trans-unit>
+      <trans-unit id="0LP-7n-bJg.text">
+        <source>Повестка дня:</source>
+        <note>Class = "UILabel"; text = "Повестка дня:"; ObjectID = "0LP-7n-bJg";</note>
+      </trans-unit>
+      <trans-unit id="0NJ-Eu-tG5.title">
+        <source>Discussion</source>
+        <target>Обсуждение</target>
+        <note>Class = "UINavigationItem"; title = "Discussion"; ObjectID = "0NJ-Eu-tG5";</note>
+      </trans-unit>
+      <trans-unit id="0da-E9-XxV.text">
+        <source>22 aug</source>
+        <note>Class = "UILabel"; text = "22 aug"; ObjectID = "0da-E9-XxV";</note>
+      </trans-unit>
+      <trans-unit id="0l3-3Q-fVH.text">
+        <source>Adress:</source>
+        <target>Адрес:</target>
+        <note>Class = "UILabel"; text = "Adress:"; ObjectID = "0l3-3Q-fVH";</note>
+      </trans-unit>
+      <trans-unit id="1BN-aC-3g6.text">
+        <source>Счета и оплата</source>
+        <note>Class = "UILabel"; text = "Счета и оплата"; ObjectID = "1BN-aC-3g6";</note>
+      </trans-unit>
+      <trans-unit id="2Fj-Fz-GwN.normalTitle">
+        <source>Create discuss</source>
+        <target>Создать обсуждение:</target>
+        <note>Class = "UIButton"; normalTitle = "Create discuss"; ObjectID = "2Fj-Fz-GwN";</note>
+      </trans-unit>
+      <trans-unit id="2K9-QW-g3L.text">
+        <source>Label</source>
+        <note>Class = "UILabel"; text = "Label"; ObjectID = "2K9-QW-g3L";</note>
+      </trans-unit>
+      <trans-unit id="2je-vr-wAj.text">
+        <source>Label</source>
+        <note>Class = "UILabel"; text = "Label"; ObjectID = "2je-vr-wAj";</note>
+      </trans-unit>
+      <trans-unit id="3I3-Ti-Rpn.text">
+        <source>Повестка дня:</source>
+        <note>Class = "UILabel"; text = "Повестка дня:"; ObjectID = "3I3-Ti-Rpn";</note>
+      </trans-unit>
+      <trans-unit id="3vx-sI-k4k.normalTitle">
+        <source>Add comment</source>
+        <target>Отправить комментарий</target>
+        <note>Class = "UIButton"; normalTitle = "Add comment"; ObjectID = "3vx-sI-k4k";</note>
+      </trans-unit>
+      <trans-unit id="4Ci-nO-Aio.normalTitle">
+        <source>Create vote</source>
+        <target>Создать опрос</target>
+        <note>Class = "UIButton"; normalTitle = "Create vote"; ObjectID = "4Ci-nO-Aio";</note>
+      </trans-unit>
+      <trans-unit id="4i1-c6-QNF.text">
+        <source>Variations:</source>
+        <target>Варианты</target>
+        <note>Class = "UILabel"; text = "Variations:"; ObjectID = "4i1-c6-QNF";</note>
+      </trans-unit>
+      <trans-unit id="4rg-RG-p5W.text">
+        <source>Applications &amp; Reviews</source>
+        <target>Заявки и отзывы</target>
+        <note>Class = "UILabel"; text = "Applications &amp; Reviews"; ObjectID = "4rg-RG-p5W";</note>
+      </trans-unit>
+      <trans-unit id="5JI-ge-Xdb.text">
+        <source>Label_1</source>
+        <note>Class = "UILabel"; text = "Label_1"; ObjectID = "5JI-ge-Xdb";</note>
+      </trans-unit>
+      <trans-unit id="5Mu-kq-SCH.placeholder">
+        <source>New Password</source>
+        <target>Новый пароль</target>
+        <note>Class = "UITextField"; placeholder = "New Password"; ObjectID = "5Mu-kq-SCH";</note>
+      </trans-unit>
+      <trans-unit id="5Td-QK-Ca6.placeholder">
+        <source>Choose request type</source>
+        <target>Выберите тип проблемы</target>
+        <note>Class = "UITextField"; placeholder = "Choose request type"; ObjectID = "5Td-QK-Ca6";</note>
+      </trans-unit>
+      <trans-unit id="6G6-Vp-pli.text">
+        <source>Main page</source>
+        <target>Мои Сервисы</target>
+        <note>Class = "UILabel"; text = "Main page"; ObjectID = "6G6-Vp-pli";</note>
+      </trans-unit>
+      <trans-unit id="6Uy-S4-Om0.text">
+        <source>Offers &amp; discussion</source>
+        <target>Идеи и Обсуждения</target>
+        <note>Class = "UILabel"; text = "Offers &amp; discussion"; ObjectID = "6Uy-S4-Om0";</note>
+      </trans-unit>
+      <trans-unit id="6oc-SH-mbW.segmentTitles[0]">
+        <source>Unpaid</source>
+        <target>Неоплаченные</target>
+        <note>Class = "UISegmentedControl"; 6oc-SH-mbW.segmentTitles[0] = "Unpaid"; ObjectID = "6oc-SH-mbW";</note>
+      </trans-unit>
+      <trans-unit id="6oc-SH-mbW.segmentTitles[1]">
+        <source>Paid</source>
+        <target>Оплаченные</target>
+        <note>Class = "UISegmentedControl"; 6oc-SH-mbW.segmentTitles[1] = "Paid"; ObjectID = "6oc-SH-mbW";</note>
+      </trans-unit>
+      <trans-unit id="7Bz-NS-4bY.text">
+        <source>1. Установка автоматического шлагбаума на въезде во двор</source>
+        <note>Class = "UILabel"; text = "1. Установка автоматического шлагбаума на въезде во двор"; ObjectID = "7Bz-NS-4bY";</note>
+      </trans-unit>
+      <trans-unit id="7VJ-Lk-N3k.title">
+        <source>Votes_3</source>
+        <target>Опросы и голосования</target>
+        <note>Class = "UINavigationItem"; title = "Votes_3"; ObjectID = "7VJ-Lk-N3k";</note>
+      </trans-unit>
+      <trans-unit id="7of-NT-k5s.placeholder">
+        <source>Number of document</source>
+        <target>Номер свидетельства</target>
+        <note>Class = "UITextField"; placeholder = "Number of document"; ObjectID = "7of-NT-k5s";</note>
+      </trans-unit>
+      <trans-unit id="7tG-BQ-2E0.title">
+        <source>Discussion</source>
+        <target>Обсуждения</target>
+        <note>Class = "UINavigationItem"; title = "Discussion"; ObjectID = "7tG-BQ-2E0";</note>
+      </trans-unit>
+      <trans-unit id="8B5-MX-qBY.placeholder">
+        <source>Confirm PIN</source>
+        <target>Подтвердите PIN</target>
+        <note>Class = "UITextField"; placeholder = "Confirm PIN"; ObjectID = "8B5-MX-qBY";</note>
+      </trans-unit>
+      <trans-unit id="8v0-2U-nxn.text">
+        <source>Charged:</source>
+        <target>Начислено</target>
+        <note>Class = "UILabel"; text = "Charged:"; ObjectID = "8v0-2U-nxn";</note>
+      </trans-unit>
+      <trans-unit id="9By-UW-tLy.text">
+        <source>Receipt № 07/2015</source>
+        <target>Квитанция № 07/2015</target>
+        <note>Class = "UILabel"; text = "Receipt № 07/2015"; ObjectID = "9By-UW-tLy";</note>
+      </trans-unit>
+      <trans-unit id="9TK-xx-uQI.text">
+        <source>9</source>
+        <target>9</target>
+        <note>Class = "UILabel"; text = "9"; ObjectID = "9TK-xx-uQI";</note>
+      </trans-unit>
+      <trans-unit id="19g-uq-fpT.normalTitle">
+        <source>Vote</source>
+        <target>Проголосовать</target>
+        <note>Class = "UIButton"; normalTitle = "Vote"; ObjectID = "19g-uq-fpT";</note>
+      </trans-unit>
+      <trans-unit id="49U-04-02e.text">
+        <source>Status</source>
+        <target>Статус</target>
+        <note>Class = "UILabel"; text = "Status"; ObjectID = "49U-04-02e";</note>
+      </trans-unit>
+      <trans-unit id="69T-Vu-jse.title">
+        <source>Notifications</source>
+        <target>Уведомления</target>
+        <note>Class = "UITableViewController"; title = "Notifications"; ObjectID = "69T-Vu-jse";</note>
+      </trans-unit>
+      <trans-unit id="82D-yw-0Z6.normalTitle">
+        <source>Change Password</source>
+        <target>Изменить пароль</target>
+        <note>Class = "UIButton"; normalTitle = "Change Password"; ObjectID = "82D-yw-0Z6";</note>
+      </trans-unit>
+      <trans-unit id="98Y-Y2-Q0F.normalTitle">
+        <source>Зарегистрироваться в собрании</source>
+        <note>Class = "UIButton"; normalTitle = "Зарегистрироваться в собрании"; ObjectID = "98Y-Y2-Q0F";</note>
+      </trans-unit>
+      <trans-unit id="122-WI-31t.text">
+        <source>111800.02</source>
+        <note>Class = "UILabel"; text = "111800.02"; ObjectID = "122-WI-31t";</note>
+      </trans-unit>
+      <trans-unit id="A6d-NR-HhG.normalTitle">
+        <source>Close the request</source>
+        <target>Закрыть заявку</target>
+        <note>Class = "UIButton"; normalTitle = "Close the request"; ObjectID = "A6d-NR-HhG";</note>
+      </trans-unit>
+      <trans-unit id="AAz-Xd-GgI.title">
+        <source>Votes</source>
+        <target>Опросы и голосования</target>
+        <note>Class = "UINavigationItem"; title = "Votes"; ObjectID = "AAz-Xd-GgI";</note>
+      </trans-unit>
+      <trans-unit id="AUq-WV-upJ.text">
+        <source>Label</source>
+        <note>Class = "UILabel"; text = "Label"; ObjectID = "AUq-WV-upJ";</note>
+      </trans-unit>
+      <trans-unit id="Aak-BX-n82.text">
+        <source>Change Password</source>
+        <target>Изменить пароль</target>
+        <note>Class = "UILabel"; text = "Change Password"; ObjectID = "Aak-BX-n82";</note>
+      </trans-unit>
+      <trans-unit id="Ahm-aW-Obd.placeholder">
+        <source>Time</source>
+        <target>Время</target>
+        <note>Class = "UITextField"; placeholder = "Time"; ObjectID = "Ahm-aW-Obd";</note>
+      </trans-unit>
+      <trans-unit id="AoQ-Kl-Ns7.normalTitle">
+        <source>Send reports</source>
+        <target>Отправить показания</target>
+        <note>Class = "UIButton"; normalTitle = "Send reports"; ObjectID = "AoQ-Kl-Ns7";</note>
+      </trans-unit>
+      <trans-unit id="BiD-b7-Aam.text">
+        <source>Exit</source>
+        <target>Выход</target>
+        <note>Class = "UILabel"; text = "Exit"; ObjectID = "BiD-b7-Aam";</note>
+      </trans-unit>
+      <trans-unit id="Bv2-Om-L5n.text">
+        <source>Label</source>
+        <note>Class = "UILabel"; text = "Label"; ObjectID = "Bv2-Om-L5n";</note>
+      </trans-unit>
+      <trans-unit id="CD2-WO-pKk.title">
+        <source>Общие собрания</source>
+        <note>Class = "UINavigationItem"; title = "Общие собрания"; ObjectID = "CD2-WO-pKk";</note>
+      </trans-unit>
+      <trans-unit id="Cnq-uf-82J.text">
+        <source>12:00</source>
+        <note>Class = "UILabel"; text = "12:00"; ObjectID = "Cnq-uf-82J";</note>
+      </trans-unit>
+      <trans-unit id="D4p-Lg-Vvi.text">
+        <source>Label_3</source>
+        <note>Class = "UILabel"; text = "Label_3"; ObjectID = "D4p-Lg-Vvi";</note>
+      </trans-unit>
+      <trans-unit id="EWB-0X-Jn3.normalTitle">
+        <source>Button</source>
+        <note>Class = "UIButton"; normalTitle = "Button"; ObjectID = "EWB-0X-Jn3";</note>
+      </trans-unit>
+      <trans-unit id="EqY-V2-QeS.text">
+        <source>Harry Santos Sanosovich</source>
+        <note>Class = "UILabel"; text = "Harry Santos Sanosovich"; ObjectID = "EqY-V2-QeS";</note>
+      </trans-unit>
+      <trans-unit id="F99-aF-DA0.text">
+        <source>Recalculation:</source>
+        <target>Перерасчет</target>
+        <note>Class = "UILabel"; text = "Recalculation:"; ObjectID = "F99-aF-DA0";</note>
+      </trans-unit>
+      <trans-unit id="Flq-da-fSA.text">
+        <source>Label</source>
+        <note>Class = "UILabel"; text = "Label"; ObjectID = "Flq-da-fSA";</note>
+      </trans-unit>
+      <trans-unit id="GWs-LL-nbI.text">
+        <source>Payment type</source>
+        <target>Вид платежа</target>
+        <note>Class = "UILabel"; text = "Payment type"; ObjectID = "GWs-LL-nbI";</note>
+      </trans-unit>
+      <trans-unit id="GYr-Ip-EkJ.normalTitle">
+        <source>Send</source>
+        <target>Отправить</target>
+        <note>Class = "UIButton"; normalTitle = "Send"; ObjectID = "GYr-Ip-EkJ";</note>
+      </trans-unit>
+      <trans-unit id="GuY-sJ-OUf.text">
+        <source>12.50</source>
+        <note>Class = "UILabel"; text = "12.50"; ObjectID = "GuY-sJ-OUf";</note>
+      </trans-unit>
+      <trans-unit id="HEa-kV-c6O.text">
+        <source>No actual vote</source>
+        <target>Нет актуальных опросов</target>
+        <note>Class = "UILabel"; text = "No actual vote"; ObjectID = "HEa-kV-c6O";</note>
+      </trans-unit>
+      <trans-unit id="HXR-Jq-dQx.text">
+        <source>Организатор:</source>
+        <note>Class = "UILabel"; text = "Организатор:"; ObjectID = "HXR-Jq-dQx";</note>
+      </trans-unit>
+      <trans-unit id="I44-8O-uuv.text">
+        <source>А ты съезди и разберись сам, хлолуёк. Может и поймёшь тогда, что такое демократия. Ты очень удивишься, насколько американцы доброжелательней и приветливей, чем россияне. Это касается и копов, и обывателей и даже страшных чёрных негров. Впрочем, можно и поближе - в любую развитую европейскую державу. Всё примерно одинаково. 
+</source>
+        <note>Class = "UILabel"; text = "А ты съезди и разберись сам, хлолуёк. Может и поймёшь тогда, что такое демократия. Ты очень удивишься, насколько американцы доброжелательней и приветливей, чем россияне. Это касается и копов, и обывателей и даже страшных чёрных негров. Впрочем, можно и поближе - в любую развитую европейскую державу. Всё примерно одинаково. \n"; ObjectID = "I44-8O-uuv";</note>
+      </trans-unit>
+      <trans-unit id="IMl-HE-Q3W.normalTitle">
+        <source>Войти в собрание</source>
+        <note>Class = "UIButton"; normalTitle = "Войти в собрание"; ObjectID = "IMl-HE-Q3W";</note>
+      </trans-unit>
+      <trans-unit id="Ih4-kC-4Kl.text">
+        <source>Квитанция № 07/2015</source>
+        <note>Class = "UILabel"; text = "Квитанция № 07/2015"; ObjectID = "Ih4-kC-4Kl";</note>
+      </trans-unit>
+      <trans-unit id="Ihz-3h-Bzz.title">
+        <source>Notifications_</source>
+        <target>Сообщения</target>
+        <note>Class = "UINavigationItem"; title = "Notifications_"; ObjectID = "Ihz-3h-Bzz";</note>
+      </trans-unit>
+      <trans-unit id="In5-Hh-dbV.placeholder">
+        <source>00000</source>
+        <note>Class = "UITextField"; placeholder = "00000"; ObjectID = "In5-Hh-dbV";</note>
+      </trans-unit>
+      <trans-unit id="Is8-5M-vvv.text">
+        <source>Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.</source>
+        <note>Class = "UITextView"; text = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda."; ObjectID = "Is8-5M-vvv";</note>
+      </trans-unit>
+      <trans-unit id="Izp-Do-jad.text">
+        <source>Wait manager responce ownership.</source>
+        <target>Спасибо, Ваша заявка принята. Проверка прав собственности будет осуществлена в ближайшее время. Вы получите уведомление о результате.</target>
+        <note>Class = "UILabel"; text = "Wait manager responce ownership."; ObjectID = "Izp-Do-jad";</note>
+      </trans-unit>
+      <trans-unit id="JLv-X7-cTw.text">
+        <source>Big title for ticket</source>
+        <target>Заголовок заявки</target>
+        <note>Class = "UILabel"; text = "Big title for ticket"; ObjectID = "JLv-X7-cTw";</note>
+      </trans-unit>
+      <trans-unit id="JtQ-Nz-1Ez.placeholder">
+        <source>Short description of problem</source>
+        <target>Краткое описание проблемы</target>
+        <note>Class = "UITextField"; placeholder = "Short description of problem"; ObjectID = "JtQ-Nz-1Ez";</note>
+      </trans-unit>
+      <trans-unit id="K26-uk-aGI.text">
+        <source>Verify ownership</source>
+        <target>Подтвердить право собственности</target>
+        <note>Class = "UILabel"; text = "Verify ownership"; ObjectID = "K26-uk-aGI";</note>
+      </trans-unit>
+      <trans-unit id="KHJ-5v-may.text">
+        <source>Finish vote after:</source>
+        <target>Закончить опрос через:</target>
+        <note>Class = "UILabel"; text = "Finish vote after:"; ObjectID = "KHJ-5v-may";</note>
+      </trans-unit>
+      <trans-unit id="KP8-ZL-LUV.text">
+        <source>Ежегодное собрание собственников жилых помещений</source>
+        <note>Class = "UILabel"; text = "Ежегодное собрание собственников жилых помещений"; ObjectID = "KP8-ZL-LUV";</note>
+      </trans-unit>
+      <trans-unit id="KsA-A4-O9f.text">
+        <source>22 августа 12:00</source>
+        <note>Class = "UILabel"; text = "22 августа 12:00"; ObjectID = "KsA-A4-O9f";</note>
+      </trans-unit>
+      <trans-unit id="L8w-Ho-oGK.text">
+        <source>Norm.(rash)</source>
+        <target>Норм.(расх)</target>
+        <note>Class = "UILabel"; text = "Norm.(rash)"; ObjectID = "L8w-Ho-oGK";</note>
+      </trans-unit>
+      <trans-unit id="LBQ-0H-1Am.text">
+        <source>Park or playground? </source>
+        <target>Парк или детская площадка</target>
+        <note>Class = "UILabel"; text = "Park or playground? "; ObjectID = "LBQ-0H-1Am";</note>
+      </trans-unit>
+      <trans-unit id="LOh-4V-dha.title">
+        <source>Change PIN</source>
+        <target>Изменить PIN</target>
+        <note>Class = "UIViewController"; title = "Change PIN"; ObjectID = "LOh-4V-dha";</note>
+      </trans-unit>
+      <trans-unit id="MfD-nO-YmZ.text">
+        <source>TOTAL PAYABLE: 6 304.13 ₽</source>
+        <target>ИТОГО К ОПЛАТЕ: 6 304.13 ₽</target>
+        <note>Class = "UILabel"; text = "TOTAL PAYABLE: 6 304.13 ₽"; ObjectID = "MfD-nO-YmZ";</note>
+      </trans-unit>
+      <trans-unit id="Nna-jt-8MN.placeholder">
+        <source>New PIN</source>
+        <target>Новый PIN</target>
+        <note>Class = "UITextField"; placeholder = "New PIN"; ObjectID = "Nna-jt-8MN";</note>
+      </trans-unit>
+      <trans-unit id="Nuj-6I-vnL.text">
+        <source>Changes on my request</source>
+        <target>Изменения по моей заявке</target>
+        <note>Class = "UILabel"; text = "Changes on my request"; ObjectID = "Nuj-6I-vnL";</note>
+      </trans-unit>
+      <trans-unit id="ONt-qK-80i.placeholder">
+        <source>Your comment</source>
+        <target>Ваш комментарий</target>
+        <note>Class = "UITextField"; placeholder = "Your comment"; ObjectID = "ONt-qK-80i";</note>
+      </trans-unit>
+      <trans-unit id="OXh-XA-meg.title">
+        <source>Settings</source>
+        <target>Настройки</target>
+        <note>Class = "UITableViewController"; title = "Settings"; ObjectID = "OXh-XA-meg";</note>
+      </trans-unit>
+      <trans-unit id="P3w-ER-N0y.normalTitle">
+        <source>Close</source>
+        <target>Закрыть</target>
+        <note>Class = "UIButton"; normalTitle = "Close"; ObjectID = "P3w-ER-N0y";</note>
+      </trans-unit>
+      <trans-unit id="PAS-lM-rNF.normalTitle">
+        <source>Search</source>
+        <target>Поиск</target>
+        <note>Class = "UIButton"; normalTitle = "Search"; ObjectID = "PAS-lM-rNF";</note>
+      </trans-unit>
+      <trans-unit id="PQh-f9-TYq.text">
+        <source>Search receipts by date</source>
+        <target>Поиск счета по дате</target>
+        <note>Class = "UILabel"; text = "Search receipts by date"; ObjectID = "PQh-f9-TYq";</note>
+      </trans-unit>
+      <trans-unit id="Pbs-2j-rzG.text">
+        <source>Charged</source>
+        <note>Class = "UILabel"; text = "Charged"; ObjectID = "Pbs-2j-rzG";</note>
+      </trans-unit>
+      <trans-unit id="PjB-4j-Fvt.text">
+        <source>Payer:</source>
+        <target>Плательщик:</target>
+        <note>Class = "UILabel"; text = "Payer:"; ObjectID = "PjB-4j-Fvt";</note>
+      </trans-unit>
+      <trans-unit id="Qk7-Px-czf.text">
+        <source>Борис Руденко</source>
+        <note>Class = "UILabel"; text = "Борис Руденко"; ObjectID = "Qk7-Px-czf";</note>
+      </trans-unit>
+      <trans-unit id="Qt2-ZL-bYf.text">
+        <source>Payment type</source>
+        <note>Class = "UILabel"; text = "Payment type"; ObjectID = "Qt2-ZL-bYf";</note>
+      </trans-unit>
+      <trans-unit id="Qve-Bk-bIT.text">
+        <source>Settings</source>
+        <target>Настройки</target>
+        <note>Class = "UILabel"; text = "Settings"; ObjectID = "Qve-Bk-bIT";</note>
+      </trans-unit>
+      <trans-unit id="RMo-B0-XLy.text">
+        <source>Receipt № 07/2015</source>
+        <note>Class = "UILabel"; text = "Receipt № 07/2015"; ObjectID = "RMo-B0-XLy";</note>
+      </trans-unit>
+      <trans-unit id="RNR-SZ-vx1.text">
+        <source>Charge for:</source>
+        <target>Начислено за:</target>
+        <note>Class = "UILabel"; text = "Charge for:"; ObjectID = "RNR-SZ-vx1";</note>
+      </trans-unit>
+      <trans-unit id="RQI-WY-wAf.text">
+        <source>Comments</source>
+        <target>Комментарии</target>
+        <note>Class = "UILabel"; text = "Comments"; ObjectID = "RQI-WY-wAf";</note>
+      </trans-unit>
+      <trans-unit id="Rnt-yb-B45.placeholder">
+        <source>Flat area</source>
+        <target>Площадь квартиры</target>
+        <note>Class = "UITextField"; placeholder = "Flat area"; ObjectID = "Rnt-yb-B45";</note>
+      </trans-unit>
+      <trans-unit id="SKK-F3-xqS.placeholder">
+        <source>Current Password</source>
+        <target>Текущий пароль</target>
+        <note>Class = "UITextField"; placeholder = "Current Password"; ObjectID = "SKK-F3-xqS";</note>
+      </trans-unit>
+      <trans-unit id="SYO-9X-Veu.normalTitle">
+        <source>Cancel</source>
+        <target>Отмена</target>
+        <note>Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "SYO-9X-Veu";</note>
+      </trans-unit>
+      <trans-unit id="SdA-50-Ieh.text">
+        <source>500</source>
+        <note>Class = "UILabel"; text = "500"; ObjectID = "SdA-50-Ieh";</note>
+      </trans-unit>
+      <trans-unit id="TGe-Kr-18M.text">
+        <source>Messages</source>
+        <target>Сообщения</target>
+        <note>Class = "UILabel"; text = "Messages"; ObjectID = "TGe-Kr-18M";</note>
+      </trans-unit>
+      <trans-unit id="TIG-EK-aIb.text">
+        <source>Организатор:</source>
+        <note>Class = "UILabel"; text = "Организатор:"; ObjectID = "TIG-EK-aIb";</note>
+      </trans-unit>
+      <trans-unit id="TNo-pe-IEU.text">
+        <source>Авдеева О.Б.</source>
+        <note>Class = "UILabel"; text = "Авдеева О.Б."; ObjectID = "TNo-pe-IEU";</note>
+      </trans-unit>
+      <trans-unit id="UJL-f0-mY5.normalTitle">
+        <source>Close the request</source>
+        <target>Закрыть заявку</target>
+        <note>Class = "UIButton"; normalTitle = "Close the request"; ObjectID = "UJL-f0-mY5";</note>
+      </trans-unit>
+      <trans-unit id="Uha-O4-BDc.text">
+        <source>Commission fee for payment of 2%</source>
+        <target>Комиссия за платеж - 2%</target>
+        <note>Class = "UILabel"; text = "Commission fee for payment of 2%"; ObjectID = "Uha-O4-BDc";</note>
+      </trans-unit>
+      <trans-unit id="V94-XL-7fi.text">
+        <source>Сумма к оплате</source>
+        <note>Class = "UILabel"; text = "Сумма к оплате"; ObjectID = "V94-XL-7fi";</note>
+      </trans-unit>
+      <trans-unit id="VDk-ev-H55.text">
+        <source>Label_2</source>
+        <note>Class = "UILabel"; text = "Label_2"; ObjectID = "VDk-ev-H55";</note>
+      </trans-unit>
+      <trans-unit id="VX9-rt-zaW.title">
+        <source>Add request</source>
+        <target>Создание заявки</target>
+        <note>Class = "UINavigationItem"; title = "Add request"; ObjectID = "VX9-rt-zaW";</note>
+      </trans-unit>
+      <trans-unit id="VkL-eN-Uug.text">
+        <source>Letting readings</source>
+        <target>Сдача показаний</target>
+        <note>Class = "UILabel"; text = "Letting readings"; ObjectID = "VkL-eN-Uug";</note>
+      </trans-unit>
+      <trans-unit id="WL0-h7-Kvu.text">
+        <source>Tariff</source>
+        <target>Тариф</target>
+        <note>Class = "UILabel"; text = "Tariff"; ObjectID = "WL0-h7-Kvu";</note>
+      </trans-unit>
+      <trans-unit id="WP2-jw-5k7.placeholder">
+        <source>Certificate of ownership</source>
+        <target>Документ</target>
+        <note>Class = "UITextField"; placeholder = "Certificate of ownership"; ObjectID = "WP2-jw-5k7";</note>
+      </trans-unit>
+      <trans-unit id="WdW-gA-GCw.text">
+        <source>Counters</source>
+        <target>Счетчики и показания</target>
+        <note>Class = "UILabel"; text = "Counters"; ObjectID = "WdW-gA-GCw";</note>
+      </trans-unit>
+      <trans-unit id="WrM-RT-Xzm.text">
+        <source>+7 (921) 210-12-45</source>
+        <note>Class = "UILabel"; text = "+7 (921) 210-12-45"; ObjectID = "WrM-RT-Xzm";</note>
+      </trans-unit>
+      <trans-unit id="X1E-Db-H3R.text">
+        <source>General meeting of owners</source>
+        <target>Общие собрания</target>
+        <note>Class = "UILabel"; text = "General meeting of owners"; ObjectID = "X1E-Db-H3R";</note>
+      </trans-unit>
+      <trans-unit id="X8T-ux-6fd.text">
+        <source>Описание уведомления</source>
+        <note>Class = "UITextView"; text = "Описание уведомления"; ObjectID = "X8T-ux-6fd";</note>
+      </trans-unit>
+      <trans-unit id="Xpa-Gh-hB0.text">
+        <source>June 2015</source>
+        <target>Июль 2015</target>
+        <note>Class = "UILabel"; text = "June 2015"; ObjectID = "Xpa-Gh-hB0";</note>
+      </trans-unit>
+      <trans-unit id="YDf-oX-xWH.text">
+        <source>title Discussion</source>
+        <target>Заголовок обсуждения</target>
+        <note>Class = "UILabel"; text = "title Discussion"; ObjectID = "YDf-oX-xWH";</note>
+      </trans-unit>
+      <trans-unit id="YdR-ev-YxJ.text">
+        <source>500</source>
+        <note>Class = "UILabel"; text = "500"; ObjectID = "YdR-ev-YxJ";</note>
+      </trans-unit>
+      <trans-unit id="Ye0-JZ-vm7.text">
+        <source>Total: 5 807.87 P</source>
+        <target>Итого: 5 807.87 P</target>
+        <note>Class = "UILabel"; text = "Total: 5 807.87 P"; ObjectID = "Ye0-JZ-vm7";</note>
+      </trans-unit>
+      <trans-unit id="YlF-jn-6PL.text">
+        <source>TOTAL PAYABLE: 6 304.13 ₽</source>
+        <note>Class = "UILabel"; text = "TOTAL PAYABLE: 6 304.13 ₽"; ObjectID = "YlF-jn-6PL";</note>
+      </trans-unit>
+      <trans-unit id="YzJ-hg-w0v.text">
+        <source>22 Августа</source>
+        <note>Class = "UILabel"; text = "22 Августа"; ObjectID = "YzJ-hg-w0v";</note>
+      </trans-unit>
+      <trans-unit id="a5B-Ll-uUy.text">
+        <source>Payment Date</source>
+        <note>Class = "UILabel"; text = "Payment Date"; ObjectID = "a5B-Ll-uUy";</note>
+      </trans-unit>
+      <trans-unit id="a8A-68-ZDg.text">
+        <source>Yersterday</source>
+        <target>Вчера</target>
+        <note>Class = "UILabel"; text = "Yersterday"; ObjectID = "a8A-68-ZDg";</note>
+      </trans-unit>
+      <trans-unit id="aOQ-6h-jgD.text">
+        <source>Price:</source>
+        <target>Стоим.</target>
+        <note>Class = "UILabel"; text = "Price:"; ObjectID = "aOQ-6h-jgD";</note>
+      </trans-unit>
+      <trans-unit id="apc-ht-GJR.normalTitle">
+        <source>Pay</source>
+        <target>Оплатить</target>
+        <note>Class = "UIButton"; normalTitle = "Pay"; ObjectID = "apc-ht-GJR";</note>
+      </trans-unit>
+      <trans-unit id="bQd-6O-bi7.normalTitle">
+        <source>Confirm</source>
+        <target>Подтвердить</target>
+        <note>Class = "UIButton"; normalTitle = "Confirm"; ObjectID = "bQd-6O-bi7";</note>
+      </trans-unit>
+      <trans-unit id="bWJ-KN-VII.title">
+        <source>Requests</source>
+        <target>Заявки и отзывы</target>
+        <note>Class = "UINavigationItem"; title = "Requests"; ObjectID = "bWJ-KN-VII";</note>
+      </trans-unit>
+      <trans-unit id="biJ-WJ-MCc.placeholder">
+        <source>Number of flat</source>
+        <target>Номер квартиры</target>
+        <note>Class = "UITextField"; placeholder = "Number of flat"; ObjectID = "biJ-WJ-MCc";</note>
+      </trans-unit>
+      <trans-unit id="bty-Er-Kn0.title">
+        <source>New discuss</source>
+        <target>Новое обсуждение</target>
+        <note>Class = "UINavigationItem"; title = "New discuss"; ObjectID = "bty-Er-Kn0";</note>
+      </trans-unit>
+      <trans-unit id="cSY-Rw-V0H.text">
+        <source>My Company</source>
+        <target>Моя компания</target>
+        <note>Class = "UILabel"; text = "My Company"; ObjectID = "cSY-Rw-V0H";</note>
+      </trans-unit>
+      <trans-unit id="cV4-OX-VFd.text">
+        <source>0</source>
+        <note>Class = "UILabel"; text = "0"; ObjectID = "cV4-OX-VFd";</note>
+      </trans-unit>
+      <trans-unit id="cxk-Tv-aZ1.text">
+        <source>Notifications</source>
+        <target>Уведомления</target>
+        <note>Class = "UILabel"; text = "Notifications"; ObjectID = "cxk-Tv-aZ1";</note>
+      </trans-unit>
+      <trans-unit id="d9y-Ky-7XY.text">
+        <source>1. Установка автоматического шлагбаума на въезде во двор</source>
+        <note>Class = "UILabel"; text = "1. Установка автоматического шлагбаума на въезде во двор"; ObjectID = "d9y-Ky-7XY";</note>
+      </trans-unit>
+      <trans-unit id="dNh-tw-3ht.text">
+        <source>Text</source>
+        <note>Class = "UILabel"; text = "Text"; ObjectID = "dNh-tw-3ht";</note>
+      </trans-unit>
+      <trans-unit id="dfG-l3-Gff.text">
+        <source>Exhibited a new account</source>
+        <target>Выставлен новый счет</target>
+        <note>Class = "UILabel"; text = "Exhibited a new account"; ObjectID = "dfG-l3-Gff";</note>
+      </trans-unit>
+      <trans-unit id="du7-fw-9BJ.text">
+        <source>111800.02</source>
+        <note>Class = "UILabel"; text = "111800.02"; ObjectID = "du7-fw-9BJ";</note>
+      </trans-unit>
+      <trans-unit id="ecW-id-qEG.placeholder">
+        <source>Year</source>
+        <target>Год</target>
+        <note>Class = "UITextField"; placeholder = "Year"; ObjectID = "ecW-id-qEG";</note>
+      </trans-unit>
+      <trans-unit id="egB-FR-z45.text">
+        <source>Ежегодное собрание собственников жилых помещений</source>
+        <note>Class = "UILabel"; text = "Ежегодное собрание собственников жилых помещений"; ObjectID = "egB-FR-z45";</note>
+      </trans-unit>
+      <trans-unit id="f0r-P4-4F2.text">
+        <source>type</source>
+        <note>Class = "UILabel"; text = "type"; ObjectID = "f0r-P4-4F2";</note>
+      </trans-unit>
+      <trans-unit id="fKA-Vs-igd.text">
+        <source>Mobile phone:</source>
+        <target>Мобильный телефон:</target>
+        <note>Class = "UILabel"; text = "Mobile phone:"; ObjectID = "fKA-Vs-igd";</note>
+      </trans-unit>
+      <trans-unit id="fWc-kn-f3N.normalTitle">
+        <source>Change PIN</source>
+        <target>Изменить PIN</target>
+        <note>Class = "UIButton"; normalTitle = "Change PIN"; ObjectID = "fWc-kn-f3N";</note>
+      </trans-unit>
+      <trans-unit id="fhf-KS-e4x.text">
+        <source>:</source>
+        <note>Class = "UILabel"; text = ":"; ObjectID = "fhf-KS-e4x";</note>
+      </trans-unit>
+      <trans-unit id="giJ-fl-WB1.text">
+        <source>Voting</source>
+        <target>Опросы и голосования</target>
+        <note>Class = "UILabel"; text = "Voting"; ObjectID = "giJ-fl-WB1";</note>
+      </trans-unit>
+      <trans-unit id="hcX-9N-xJK.segmentTitles[0]">
+        <source>Add report</source>
+        <target>Сдача показаний</target>
+        <note>Class = "UISegmentedControl"; hcX-9N-xJK.segmentTitles[0] = "Add report"; ObjectID = "hcX-9N-xJK";</note>
+      </trans-unit>
+      <trans-unit id="hcX-9N-xJK.segmentTitles[1]">
+        <source>Archive reports</source>
+        <target>Архив показаний</target>
+        <note>Class = "UISegmentedControl"; hcX-9N-xJK.segmentTitles[1] = "Archive reports"; ObjectID = "hcX-9N-xJK";</note>
+      </trans-unit>
+      <trans-unit id="hdB-JC-5ru.text">
+        <source>Fedotov A.U.</source>
+        <target>Федотов А.Ю.</target>
+        <note>Class = "UILabel"; text = "Fedotov A.U."; ObjectID = "hdB-JC-5ru";</note>
+      </trans-unit>
+      <trans-unit id="heD-Us-e6C.text">
+        <source>1 час назад</source>
+        <note>Class = "UILabel"; text = "1 час назад"; ObjectID = "heD-Us-e6C";</note>
+      </trans-unit>
+      <trans-unit id="inf-LQ-XRT.text">
+        <source>Status:</source>
+        <target>Статус</target>
+        <note>Class = "UILabel"; text = "Status:"; ObjectID = "inf-LQ-XRT";</note>
+      </trans-unit>
+      <trans-unit id="k4q-vN-2S7.text">
+        <source>Tariff:</source>
+        <target>Тариф:</target>
+        <note>Class = "UILabel"; text = "Tariff:"; ObjectID = "k4q-vN-2S7";</note>
+      </trans-unit>
+      <trans-unit id="mE2-wN-Cg5.text">
+        <source>Rate the quolity of service</source>
+        <target>Оцените качество выполненных работ</target>
+        <note>Class = "UILabel"; text = "Rate the quolity of service"; ObjectID = "mE2-wN-Cg5";</note>
+      </trans-unit>
+      <trans-unit id="mhF-jF-rVU.placeholder">
+        <source>Confirm Password</source>
+        <target>Подтвердите пароль</target>
+        <note>Class = "UITextField"; placeholder = "Confirm Password"; ObjectID = "mhF-jF-rVU";</note>
+      </trans-unit>
+      <trans-unit id="nZS-Hd-oRf.text">
+        <source>Billing  &amp; Payment</source>
+        <target>Счета и оплата</target>
+        <note>Class = "UILabel"; text = "Billing  &amp; Payment"; ObjectID = "nZS-Hd-oRf";</note>
+      </trans-unit>
+      <trans-unit id="nqP-VA-aCM.text">
+        <source>Кворум:</source>
+        <note>Class = "UILabel"; text = "Кворум:"; ObjectID = "nqP-VA-aCM";</note>
+      </trans-unit>
+      <trans-unit id="pHN-TS-CqD.text">
+        <source>0</source>
+        <note>Class = "UILabel"; text = "0"; ObjectID = "pHN-TS-CqD";</note>
+      </trans-unit>
+      <trans-unit id="pW1-mk-OHH.title">
+        <source>Change Password</source>
+        <target>Изменить пароль</target>
+        <note>Class = "UIViewController"; title = "Change Password"; ObjectID = "pW1-mk-OHH";</note>
+      </trans-unit>
+      <trans-unit id="pck-CV-qqe.text">
+        <source>Кто у нас так поркуется? Будет пешком ходить!</source>
+        <note>Class = "UILabel"; text = "Кто у нас так поркуется? Будет пешком ходить!"; ObjectID = "pck-CV-qqe";</note>
+      </trans-unit>
+      <trans-unit id="plx-dZ-2ut.text">
+        <source>Сейчас 94% из 100%</source>
+        <note>Class = "UILabel"; text = "Сейчас 94% из 100%"; ObjectID = "plx-dZ-2ut";</note>
+      </trans-unit>
+      <trans-unit id="pqh-5u-Vga.text">
+        <source>Total: 5 807.87 P</source>
+        <note>Class = "UILabel"; text = "Total: 5 807.87 P"; ObjectID = "pqh-5u-Vga";</note>
+      </trans-unit>
+      <trans-unit id="qEp-3M-wqs.segmentTitles[0]">
+        <source>Актуальные</source>
+        <note>Class = "UISegmentedControl"; qEp-3M-wqs.segmentTitles[0] = "Актуальные"; ObjectID = "qEp-3M-wqs";</note>
+      </trans-unit>
+      <trans-unit id="qEp-3M-wqs.segmentTitles[1]">
+        <source>Прошедшие</source>
+        <note>Class = "UISegmentedControl"; qEp-3M-wqs.segmentTitles[1] = "Прошедшие"; ObjectID = "qEp-3M-wqs";</note>
+      </trans-unit>
+      <trans-unit id="qK6-b9-Sne.text">
+        <source>Секретарь:</source>
+        <note>Class = "UILabel"; text = "Секретарь:"; ObjectID = "qK6-b9-Sne";</note>
+      </trans-unit>
+      <trans-unit id="qYy-WW-YDu.text">
+        <source>2560.12 Р</source>
+        <note>Class = "UILabel"; text = "2560.12 Р"; ObjectID = "qYy-WW-YDu";</note>
+      </trans-unit>
+      <trans-unit id="qlR-oB-LFT.text">
+        <source>A new poll</source>
+        <target>Новый опрос</target>
+        <note>Class = "UILabel"; text = "A new poll"; ObjectID = "qlR-oB-LFT";</note>
+      </trans-unit>
+      <trans-unit id="rLL-cU-h2V.normalTitle">
+        <source>Send problem</source>
+        <target>Отправить заявку</target>
+        <note>Class = "UIButton"; normalTitle = "Send problem"; ObjectID = "rLL-cU-h2V";</note>
+      </trans-unit>
+      <trans-unit id="rNk-4l-Psy.text">
+        <source>Charged</source>
+        <target>Начисл.</target>
+        <note>Class = "UILabel"; text = "Charged"; ObjectID = "rNk-4l-Psy";</note>
+      </trans-unit>
+      <trans-unit id="rrf-8s-UDG.normalTitle">
+        <source>Pay</source>
+        <target>Оплатить</target>
+        <note>Class = "UIButton"; normalTitle = "Pay"; ObjectID = "rrf-8s-UDG";</note>
+      </trans-unit>
+      <trans-unit id="s0h-kY-4WP.text">
+        <source>Change PIN</source>
+        <target>Изменить PIN</target>
+        <note>Class = "UILabel"; text = "Change PIN"; ObjectID = "s0h-kY-4WP";</note>
+      </trans-unit>
+      <trans-unit id="s2V-pr-fAg.text">
+        <source>Label</source>
+        <note>Class = "UILabel"; text = "Label"; ObjectID = "s2V-pr-fAg";</note>
+      </trans-unit>
+      <trans-unit id="sBg-Dx-lFi.normalTitle">
+        <source>Add variant</source>
+        <target>Добавить вариант</target>
+        <note>Class = "UIButton"; normalTitle = "Add variant"; ObjectID = "sBg-Dx-lFi";</note>
+      </trans-unit>
+      <trans-unit id="sV5-Aj-pXC.text">
+        <source>Date</source>
+        <note>Class = "UILabel"; text = "Date"; ObjectID = "sV5-Aj-pXC";</note>
+      </trans-unit>
+      <trans-unit id="sXQ-Pw-bnq.text">
+        <source>36 hours left.</source>
+        <target>Осталось 36 часов</target>
+        <note>Class = "UILabel"; text = "36 hours left."; ObjectID = "sXQ-Pw-bnq";</note>
+      </trans-unit>
+      <trans-unit id="scF-ou-Fdh.text">
+        <source>Commission fee for payment of 2%</source>
+        <target>Комиссия за проведение платежа - 2%</target>
+        <note>Class = "UILabel"; text = "Commission fee for payment of 2%"; ObjectID = "scF-ou-Fdh";</note>
+      </trans-unit>
+      <trans-unit id="snx-6U-SOD.text">
+        <source>Yersterday</source>
+        <note>Class = "UILabel"; text = "Yersterday"; ObjectID = "snx-6U-SOD";</note>
+      </trans-unit>
+      <trans-unit id="srk-3v-dJG.text">
+        <source>Fedotov A.U.</source>
+        <note>Class = "UILabel"; text = "Fedotov A.U."; ObjectID = "srk-3v-dJG";</note>
+      </trans-unit>
+      <trans-unit id="suF-GB-KiS.text">
+        <source>New post on my topic</source>
+        <target>Новое сообщение по моей теме</target>
+        <note>Class = "UILabel"; text = "New post on my topic"; ObjectID = "suF-GB-KiS";</note>
+      </trans-unit>
+      <trans-unit id="t9f-jz-bjB.text">
+        <source>25 august</source>
+        <note>Class = "UILabel"; text = "25 august"; ObjectID = "t9f-jz-bjB";</note>
+      </trans-unit>
+      <trans-unit id="teq-QA-Dhm.text">
+        <source>Label</source>
+        <note>Class = "UILabel"; text = "Label"; ObjectID = "teq-QA-Dhm";</note>
+      </trans-unit>
+      <trans-unit id="tfI-UH-ZC0.text">
+        <source>To participate in general meetings and making decisions you need to verify ownership</source>
+        <target>Для участия в общих собраниях и принятия решений Вам необходимо подтвердить право собственности</target>
+        <note>Class = "UILabel"; text = "To participate in general meetings and making decisions you need to verify ownership"; ObjectID = "tfI-UH-ZC0";</note>
+      </trans-unit>
+      <trans-unit id="ty3-Ta-TSS.text">
+        <source>Label</source>
+        <note>Class = "UILabel"; text = "Label"; ObjectID = "ty3-Ta-TSS";</note>
+      </trans-unit>
+      <trans-unit id="u3c-hM-WYM.text">
+        <source>Unable to input counters reports</source>
+        <target>Вы уже вводили показания счетчиков. Показания можно будет ввести с 1 по 10 число следующего месяца.</target>
+        <note>Class = "UILabel"; text = "Unable to input counters reports"; ObjectID = "u3c-hM-WYM";</note>
+      </trans-unit>
+      <trans-unit id="u68-kf-M9L.text">
+        <source>New topic</source>
+        <target>Новая тема для обсуждения</target>
+        <note>Class = "UILabel"; text = "New topic"; ObjectID = "u68-kf-M9L";</note>
+      </trans-unit>
+      <trans-unit id="uEF-u2-ODy.text">
+        <source>Веремей А.Б.</source>
+        <note>Class = "UILabel"; text = "Веремей А.Б."; ObjectID = "uEF-u2-ODy";</note>
+      </trans-unit>
+      <trans-unit id="uRI-0F-EwC.text">
+        <source>Exemption:</source>
+        <target>Льгота</target>
+        <note>Class = "UILabel"; text = "Exemption:"; ObjectID = "uRI-0F-EwC";</note>
+      </trans-unit>
+      <trans-unit id="upq-QR-izX.placeholder">
+        <source>(input your comment)</source>
+        <target>Ваш комментарий</target>
+        <note>Class = "UITextField"; placeholder = "(input your comment)"; ObjectID = "upq-QR-izX";</note>
+      </trans-unit>
+      <trans-unit id="usb-JK-7HV.normalTitle">
+        <source>Button</source>
+        <note>Class = "UIButton"; normalTitle = "Button"; ObjectID = "usb-JK-7HV";</note>
+      </trans-unit>
+      <trans-unit id="vV4-bF-LXb.placeholder">
+        <source>Current PIN</source>
+        <target>Текущий PIN</target>
+        <note>Class = "UITextField"; placeholder = "Current PIN"; ObjectID = "vV4-bF-LXb";</note>
+      </trans-unit>
+      <trans-unit id="vWx-W9-KwE.text">
+        <source>No actual discussion</source>
+        <note>Class = "UILabel"; text = "No actual discussion"; ObjectID = "vWx-W9-KwE";</note>
+      </trans-unit>
+      <trans-unit id="vhH-Um-ElP.text">
+        <source>Payer:</source>
+        <target>Плательщик:</target>
+        <note>Class = "UILabel"; text = "Payer:"; ObjectID = "vhH-Um-ElP";</note>
+      </trans-unit>
+      <trans-unit id="vhP-We-gH8.text">
+        <source>Авдеева О.Б.</source>
+        <note>Class = "UILabel"; text = "Авдеева О.Б."; ObjectID = "vhP-We-gH8";</note>
+      </trans-unit>
+      <trans-unit id="vmv-cF-saf.text">
+        <source>Confirmation of rights</source>
+        <target>Подтверждение прав</target>
+        <note>Class = "UILabel"; text = "Confirmation of rights"; ObjectID = "vmv-cF-saf";</note>
+      </trans-unit>
+      <trans-unit id="wEc-PF-5rb.text">
+        <source>type</source>
+        <note>Class = "UILabel"; text = "type"; ObjectID = "wEc-PF-5rb";</note>
+      </trans-unit>
+      <trans-unit id="xFO-0d-W2i.text">
+        <source>Tariff</source>
+        <target>Тариф</target>
+        <note>Class = "UILabel"; text = "Tariff"; ObjectID = "xFO-0d-W2i";</note>
+      </trans-unit>
+      <trans-unit id="xeo-dK-UoN.normalTitle">
+        <source>Assign new photo</source>
+        <target>Добавить фото или документ</target>
+        <note>Class = "UIButton"; normalTitle = "Assign new photo"; ObjectID = "xeo-dK-UoN";</note>
+      </trans-unit>
+      <trans-unit id="y8C-nl-If1.text">
+        <source>Санкт−Петербург, Гражданский пр. ,д 113, кв 268</source>
+        <note>Class = "UILabel"; text = "Санкт−Петербург, Гражданский пр. ,д 113, кв 268"; ObjectID = "y8C-nl-If1";</note>
+      </trans-unit>
+      <trans-unit id="yMM-uW-HQw.text">
+        <source>Charge for:</source>
+        <target>Начислено за:</target>
+        <note>Class = "UILabel"; text = "Charge for:"; ObjectID = "yMM-uW-HQw";</note>
+      </trans-unit>
+      <trans-unit id="yvn-BV-QWl.text">
+        <source>12.50</source>
+        <note>Class = "UILabel"; text = "12.50"; ObjectID = "yvn-BV-QWl";</note>
+      </trans-unit>
+      <trans-unit id="z4M-aO-hnF.placeholder">
+        <source>Month</source>
+        <target>Месяц</target>
+        <note>Class = "UITextField"; placeholder = "Month"; ObjectID = "z4M-aO-hnF";</note>
+      </trans-unit>
+      <trans-unit id="zaC-Xe-Nfj.text">
+        <source>June 2015</source>
+        <target>Июнь 2015</target>
+        <note>Class = "UILabel"; text = "June 2015"; ObjectID = "zaC-Xe-Nfj";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="PlatiDo/Base.lproj/Tutorial.storyboard" source-language="en" datatype="plaintext" target-language="ru">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.0" build-num="7A218"/>
+    </header>
+    <body>
+      <trans-unit id="1dj-f5-6hh.normalTitle">
+        <source>Check</source>
+        <target>Проверить</target>
+        <note>Class = "UIButton"; normalTitle = "Check"; ObjectID = "1dj-f5-6hh";</note>
+      </trans-unit>
+      <trans-unit id="5Za-lc-ppX.text">
+        <source>Personal data accept, you can do everything with me.</source>
+        <target>Согласен на обработку персональных данных  согласно законадательству Российской Федерации</target>
+        <note>Class = "UILabel"; text = "Personal data accept, you can do everything with me."; ObjectID = "5Za-lc-ppX";</note>
+      </trans-unit>
+      <trans-unit id="6q9-VA-Sy3.text">
+        <source>Welcome to</source>
+        <target>Добро пожаловать в</target>
+        <note>Class = "UILabel"; text = "Welcome to"; ObjectID = "6q9-VA-Sy3";</note>
+      </trans-unit>
+      <trans-unit id="27x-CL-ENM.normalTitle">
+        <source>Register</source>
+        <target>Регистрация</target>
+        <note>Class = "UIButton"; normalTitle = "Register"; ObjectID = "27x-CL-ENM";</note>
+      </trans-unit>
+      <trans-unit id="32Z-HT-S9h.text">
+        <source>Receipts and payments online</source>
+        <target>Квитанции и платежи online</target>
+        <note>Class = "UILabel"; text = "Receipts and payments online"; ObjectID = "32Z-HT-S9h";</note>
+      </trans-unit>
+      <trans-unit id="EOO-iK-TkL.normalTitle">
+        <source>Cancel</source>
+        <target>Отмена</target>
+        <note>Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "EOO-iK-TkL";</note>
+      </trans-unit>
+      <trans-unit id="Eu2-qI-kUf.text">
+        <source>More than 35 operating companies work with</source>
+        <target>Более 35 управляющих компаний уже работают с</target>
+        <note>Class = "UILabel"; text = "More than 35 operating companies work with"; ObjectID = "Eu2-qI-kUf";</note>
+      </trans-unit>
+      <trans-unit id="IAQ-gC-KVD.normalTitle">
+        <source>Button</source>
+        <target>Готово</target>
+        <note>Class = "UIButton"; normalTitle = "Button"; ObjectID = "IAQ-gC-KVD";</note>
+      </trans-unit>
+      <trans-unit id="Ilm-gk-Ovx.text">
+        <source>Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.</source>
+        <target>Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.</target>
+        <note>Class = "UITextView"; text = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda."; ObjectID = "Ilm-gk-Ovx";</note>
+      </trans-unit>
+      <trans-unit id="JE6-Si-wXg.placeholder">
+        <source>Psssword</source>
+        <target>Пароль</target>
+        <note>Class = "UITextField"; placeholder = "Psssword"; ObjectID = "JE6-Si-wXg";</note>
+      </trans-unit>
+      <trans-unit id="JnV-hL-nbs.text">
+        <source>Reporting faults</source>
+        <target>Сообщения о неисправностях</target>
+        <note>Class = "UILabel"; text = "Reporting faults"; ObjectID = "JnV-hL-nbs";</note>
+      </trans-unit>
+      <trans-unit id="KhF-Hd-xIL.placeholder">
+        <source>Last Name</source>
+        <target>Фамилия</target>
+        <note>Class = "UITextField"; placeholder = "Last Name"; ObjectID = "KhF-Hd-xIL";</note>
+      </trans-unit>
+      <trans-unit id="L0Y-kn-ZPq.placeholder">
+        <source>Surname</source>
+        <target>Отчество</target>
+        <note>Class = "UITextField"; placeholder = "Surname"; ObjectID = "L0Y-kn-ZPq";</note>
+      </trans-unit>
+      <trans-unit id="LVk-c1-Ub4.placeholder">
+        <source>phone</source>
+        <target>Телефон</target>
+        <note>Class = "UITextField"; placeholder = "phone"; ObjectID = "LVk-c1-Ub4";</note>
+      </trans-unit>
+      <trans-unit id="LZz-2g-xBb.normalTitle">
+        <source>terms</source>
+        <note>Class = "UIButton"; normalTitle = "terms"; ObjectID = "LZz-2g-xBb";</note>
+      </trans-unit>
+      <trans-unit id="M3Y-Ic-Xlr.placeholder">
+        <source>Home</source>
+        <target>Дом</target>
+        <note>Class = "UITextField"; placeholder = "Home"; ObjectID = "M3Y-Ic-Xlr";</note>
+      </trans-unit>
+      <trans-unit id="Ngd-iC-yIL.placeholder">
+        <source>Code</source>
+        <target>Код</target>
+        <note>Class = "UITextField"; placeholder = "Code"; ObjectID = "Ngd-iC-yIL";</note>
+      </trans-unit>
+      <trans-unit id="RGr-Oq-cBX.text">
+        <source>Communications and notices</source>
+        <target>Сообщения и уведомления</target>
+        <note>Class = "UILabel"; text = "Communications and notices"; ObjectID = "RGr-Oq-cBX";</note>
+      </trans-unit>
+      <trans-unit id="TT0-bU-lr6.placeholder">
+        <source>Repeat password</source>
+        <target>Повторите пароль</target>
+        <note>Class = "UITextField"; placeholder = "Repeat password"; ObjectID = "TT0-bU-lr6";</note>
+      </trans-unit>
+      <trans-unit id="TpF-gl-5va.text">
+        <source>Finish registration at</source>
+        <target>Завершите регистрацию в</target>
+        <note>Class = "UILabel"; text = "Finish registration at"; ObjectID = "TpF-gl-5va";</note>
+      </trans-unit>
+      <trans-unit id="Uvl-4o-maa.text">
+        <source>Code from sms from</source>
+        <target>Подтвердить регистрацию</target>
+        <note>Class = "UILabel"; text = "Code from sms from"; ObjectID = "Uvl-4o-maa";</note>
+      </trans-unit>
+      <trans-unit id="V5o-h2-XA9.text">
+        <source>I accept with</source>
+        <target>Согласен с условиями использования сервиса platido</target>
+        <note>Class = "UILabel"; text = "I accept with"; ObjectID = "V5o-h2-XA9";</note>
+      </trans-unit>
+      <trans-unit id="VRI-ne-k9f.scopeButtonTitles[0]">
+        <source>Title</source>
+        <note>Class = "UISearchBar"; VRI-ne-k9f.scopeButtonTitles[0] = "Title"; ObjectID = "VRI-ne-k9f";</note>
+      </trans-unit>
+      <trans-unit id="VRI-ne-k9f.scopeButtonTitles[1]">
+        <source>Title</source>
+        <note>Class = "UISearchBar"; VRI-ne-k9f.scopeButtonTitles[1] = "Title"; ObjectID = "VRI-ne-k9f";</note>
+      </trans-unit>
+      <trans-unit id="VRL-kL-I9c.text">
+        <source>After Minute You will get sms </source>
+        <target>Через минуту на ваш номер придет SMS с кодом</target>
+        <note>Class = "UILabel"; text = "After Minute You will get sms "; ObjectID = "VRL-kL-I9c";</note>
+      </trans-unit>
+      <trans-unit id="Ysg-IS-l2W.placeholder">
+        <source>Part</source>
+        <target>Корпус</target>
+        <note>Class = "UITextField"; placeholder = "Part"; ObjectID = "Ysg-IS-l2W";</note>
+      </trans-unit>
+      <trans-unit id="ZLU-qU-vMY.text">
+        <source>Your com:</source>
+        <target>Ваша УК:</target>
+        <note>Class = "UILabel"; text = "Your com:"; ObjectID = "ZLU-qU-vMY";</note>
+      </trans-unit>
+      <trans-unit id="ZrJ-LD-fgX.text">
+        <source>Communication with the neighbors</source>
+        <target>Общение с соседями</target>
+        <note>Class = "UILabel"; text = "Communication with the neighbors"; ObjectID = "ZrJ-LD-fgX";</note>
+      </trans-unit>
+      <trans-unit id="aFo-Lv-Knv.placeholder">
+        <source>Name</source>
+        <target>Имя</target>
+        <note>Class = "UITextField"; placeholder = "Name"; ObjectID = "aFo-Lv-Knv";</note>
+      </trans-unit>
+      <trans-unit id="fTr-be-2fK.normalTitle">
+        <source>Button</source>
+        <target>Готово</target>
+        <note>Class = "UIButton"; normalTitle = "Button"; ObjectID = "fTr-be-2fK";</note>
+      </trans-unit>
+      <trans-unit id="ghy-A8-Vz2.text">
+        <source>Check your address</source>
+        <target>Проверьте свой адрес</target>
+        <note>Class = "UILabel"; text = "Check your address"; ObjectID = "ghy-A8-Vz2";</note>
+      </trans-unit>
+      <trans-unit id="h8C-5I-Bmb.text">
+        <source>Meters data</source>
+        <target>Показания счетчиков</target>
+        <note>Class = "UILabel"; text = "Meters data"; ObjectID = "h8C-5I-Bmb";</note>
+      </trans-unit>
+      <trans-unit id="hQa-qr-ALp.text">
+        <source>Ideas, discussions, polls</source>
+        <target>Идеи, обсуждения, опросы</target>
+        <note>Class = "UILabel"; text = "Ideas, discussions, polls"; ObjectID = "hQa-qr-ALp";</note>
+      </trans-unit>
+      <trans-unit id="hde-IK-4Fo.text">
+        <source>The all-new level of comfort to your life in a city apartment</source>
+        <target>Абсолютно новый уровень комфорной жизни в вашей городской квартире</target>
+        <note>Class = "UILabel"; text = "The all-new level of comfort to your life in a city apartment"; ObjectID = "hde-IK-4Fo";</note>
+      </trans-unit>
+      <trans-unit id="jTN-AJ-wNh.normalTitle">
+        <source>Cancel</source>
+        <target>Отмена</target>
+        <note>Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "jTN-AJ-wNh";</note>
+      </trans-unit>
+      <trans-unit id="kVK-p9-Pfc.text">
+        <source>General meeting of owners</source>
+        <target>Общие собрания собственников</target>
+        <note>Class = "UILabel"; text = "General meeting of owners"; ObjectID = "kVK-p9-Pfc";</note>
+      </trans-unit>
+      <trans-unit id="pTw-oz-k69.text">
+        <source>Oh, forget password!!</source>
+        <target>Ой! Чуть не забыли придумать пароль!</target>
+        <note>Class = "UILabel"; text = "Oh, forget password!!"; ObjectID = "pTw-oz-k69";</note>
+      </trans-unit>
+      <trans-unit id="pzd-Ma-xeD.text">
+        <source>+7</source>
+        <note>Class = "UILabel"; text = "+7"; ObjectID = "pzd-Ma-xeD";</note>
+      </trans-unit>
+      <trans-unit id="rUD-bJ-HhJ.text">
+        <source>Мы не нашли управляющую компанию Вашего дома в системе Platido</source>
+        <note>Class = "UILabel"; text = "Мы не нашли управляющую компанию Вашего дома в системе Platido"; ObjectID = "rUD-bJ-HhJ";</note>
+      </trans-unit>
+      <trans-unit id="tc8-Gx-C7G.normalTitle">
+        <source>Send sms again</source>
+        <target>Отправить код еще раз</target>
+        <note>Class = "UIButton"; normalTitle = "Send sms again"; ObjectID = "tc8-Gx-C7G";</note>
+      </trans-unit>
+      <trans-unit id="tlk-vu-9ok.placeholder">
+        <source>City</source>
+        <target>Город</target>
+        <note>Class = "UITextField"; placeholder = "City"; ObjectID = "tlk-vu-9ok";</note>
+      </trans-unit>
+      <trans-unit id="uNZ-Hf-oDZ.normalTitle">
+        <source>I already registered</source>
+        <target>Я уже зарегистрирован</target>
+        <note>Class = "UIButton"; normalTitle = "I already registered"; ObjectID = "uNZ-Hf-oDZ";</note>
+      </trans-unit>
+      <trans-unit id="yTF-YJ-Kfx.text">
+        <source>Street</source>
+        <target>Улица</target>
+        <note>Class = "UILabel"; text = "Street"; ObjectID = "yTF-YJ-Kfx";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="PlatiDo/Info.plist" source-language="en" datatype="plaintext" target-language="ru">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.0" build-num="7A218"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleName">
+        <source>$(PRODUCT_NAME)</source>
+      </trans-unit>
+      <trans-unit id="CFBundleShortVersionString">
+        <source>1.0</source>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="PlatiDo/JKLockScreen.strings" source-language="en" datatype="plaintext" target-language="ru">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.0" build-num="7A218"/>
+    </header>
+    <body>
+      <trans-unit id="New Pincode Subtitle">
+        <source>New Pincode Subtitle</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="New Pincode Title">
+        <source>New Pincode Title</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Pincode Not Match Title">
+        <source>Pincode Not Match Title</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Pincode Subtitle">
+        <source>Pincode Subtitle</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Pincode Title">
+        <source>Pincode Title</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Pincode TouchID">
+        <source>Pincode TouchID</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="PlatiDo/Localizable.strings" source-language="en" datatype="plaintext" target-language="ru">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.0" build-num="7A218"/>
+    </header>
+    <body>
+      <trans-unit id=" ">
+        <source> </source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Actual requests">
+        <source>Actual requests</source>
+        <target>Актуальные заявки</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Appartment Confirmed">
+        <source>Appartment Confirmed</source>
+        <target>Собственность подтверждена</target>
+        <note>Квартира подтверждена</note>
+      </trans-unit>
+      <trans-unit id="Appartment not confirm">
+        <source>Appartment not confirm</source>
+        <target>Права НЕ подтверждены возможно ошибка сервиса</target>
+        <note>Права НЕ подтверждены возможно ошибка сервиса</note>
+      </trans-unit>
+      <trans-unit id="Appartment requested">
+        <source>Appartment requested</source>
+        <target>Спасибо, Ваша заявка принята. Проверка прав собственности будет осуществлена в ближайшее время. Вы получите уведомление о результате.</target>
+        <note>Спасибо, Ваша заявка принята. Проверка прав собственности будет осуществлена в ближайшее время. Вы получите уведомление о результате.</note>
+      </trans-unit>
+      <trans-unit id="Archived data are not available">
+        <source>Archived data are not available</source>
+        <target>Архивных данных нет</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Billing and Payment">
+        <source>Billing and Payment</source>
+        <target>Счета и оплата</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Cancel">
+        <source>Cancel</source>
+        <target>Отмена</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Check current PIN">
+        <source>Check current PIN</source>
+        <target>Введен неверный старый PIN</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Close">
+        <source>Close</source>
+        <target>Закрыть</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Comments">
+        <source>Comments</source>
+        <target>Комментарии</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Comments not available">
+        <source>Comments not available</source>
+        <target>Комментарии не досутпны</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Counters">
+        <source>Counters</source>
+        <target>Счетчики и показания</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Create">
+        <source>Create</source>
+        <target>Создать</target>
+        <note>Создать</note>
+      </trans-unit>
+      <trans-unit id="Date of registration not available">
+        <source>Date of registration not available</source>
+        <target>Информация о дате регистрации показаний отсутствует</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Desussion text">
+        <source>Desussion text</source>
+        <target>Текст обсуждения</target>
+        <note>Текст Обсуждения</note>
+      </trans-unit>
+      <trans-unit id="Discussions">
+        <source>Discussions</source>
+        <target>Обсуждения</target>
+        <note>Обсуждения</note>
+      </trans-unit>
+      <trans-unit id="Done">
+        <source>Done</source>
+        <target>Выбрать</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Enter">
+        <source>Enter</source>
+        <target>Ввести</target>
+        <note>Введите</note>
+      </trans-unit>
+      <trans-unit id="Enter flat number">
+        <source>Enter flat number</source>
+        <target>Введите номер квартиры</target>
+        <note>Введите номер квартиры</note>
+      </trans-unit>
+      <trans-unit id="Enter meter readings">
+        <source>Enter meter readings</source>
+        <target>Введите показания приборов учета</target>
+        <note>Введите показания приборов учета</note>
+      </trans-unit>
+      <trans-unit id="Enter meters">
+        <source>Enter meters</source>
+        <target>Ввод показаний</target>
+        <note>Введите показания</note>
+      </trans-unit>
+      <trans-unit id="Error">
+        <source>Error</source>
+        <target>Ошибка</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Failed to get the data.">
+        <source>Failed to get the data.</source>
+        <target>Не удалось получить данные.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Fill in all the fields">
+        <source>Fill in all the fields</source>
+        <target>Заполните все поля</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Functionality is not working">
+        <source>Functionality is not working</source>
+        <target>Функционал не работает</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Input description of the problem">
+        <source>Input description of the problem</source>
+        <target>Опишите проблему подробнее</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Input your comment">
+        <source>Input your comment</source>
+        <target>Введите ваш комментарий</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Internet connection error">
+        <source>Internet connection error</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Meters">
+        <source>Meters</source>
+        <target>Счетчики</target>
+        <note>Счетчики</note>
+      </trans-unit>
+      <trans-unit id="My requests">
+        <source>My requests</source>
+        <target>Мои заявки</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Name">
+        <source>Name</source>
+        <target>Имя</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="No Discussions">
+        <source>No Discussions</source>
+        <target>Нет обсуждений</target>
+        <note>Нет обсуждений</note>
+      </trans-unit>
+      <trans-unit id="No Vote">
+        <source>No Vote</source>
+        <target>Нет опросов</target>
+        <note>Нет опросов</note>
+      </trans-unit>
+      <trans-unit id="No information about past meetings">
+        <source>No information about past meetings</source>
+        <target>Нет информации о прошедших собраниях</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="No requests">
+        <source>No requests</source>
+        <target>Заявок нет</target>
+        <note>Заявок нет</note>
+      </trans-unit>
+      <trans-unit id="Not Success">
+        <source>Not Success</source>
+        <note>Не Успешно</note>
+      </trans-unit>
+      <trans-unit id="OK">
+        <source>OK</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="PIN mismatch">
+        <source>PIN mismatch</source>
+        <target>PIN не совпадают</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="PIN must be 4 numbers">
+        <source>PIN must be 4 numbers</source>
+        <target>PIN должен состоять из 4 цифр</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Password mismatch">
+        <source>Password mismatch</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Password refreshed">
+        <source>Password refreshed</source>
+        <target>Пароль сохранился</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Password successfully changed">
+        <source>Password successfully changed</source>
+        <target>Пароль успешно сменен</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Pay">
+        <source>Pay</source>
+        <target>Оплатить</target>
+        <note>Оплатить</note>
+      </trans-unit>
+      <trans-unit id="Payments available">
+        <source>Payments available</source>
+        <target>Оплата недоступна</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Quick access">
+        <source>Quick access</source>
+        <target>Быстрый доступ</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Receipt">
+        <source>Receipt</source>
+        <target>Квитанция</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Search is unavailable">
+        <source>Search is unavailable</source>
+        <target>Поиск недоступен</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Second Name">
+        <source>Second Name</source>
+        <target>Отчество</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Settings">
+        <source>Settings</source>
+        <target>Настройки</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Simple auth">
+        <source>Simple auth</source>
+        <target>Простая авторизация</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Street">
+        <source>Street</source>
+        <target>Улица</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Succesful">
+        <source>Succesful</source>
+        <target>Успешно</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Success">
+        <source>Success</source>
+        <target>Успешно</target>
+        <note>Успешно</note>
+      </trans-unit>
+      <trans-unit id="Surname">
+        <source>Surname</source>
+        <target>Фамилия</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="TOTAL PAYABLE:">
+        <source>TOTAL PAYABLE:</source>
+        <target>ВСЕГО К ОПЛАТЕ:</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Today">
+        <source>Today</source>
+        <target>Сегодня</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Total:">
+        <source>Total:</source>
+        <target>Итого:</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Unable to change the password">
+        <source>Unable to change the password</source>
+        <target>Пароль не сменен</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Use authorization">
+        <source>Use authorization</source>
+        <target>Используйте авторизацию</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="User already exist">
+        <source>User already exist</source>
+        <target>Пользователь уже существует</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Yesterday">
+        <source>Yesterday</source>
+        <target>Вчера</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="You need to input all counters report">
+        <source>You need to input all counters report</source>
+        <target>Необходимо заполнить все поля показания счетчиков</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="You put up a new bill">
+        <source>You put up a new bill</source>
+        <target>Вам выставлен новый счет</target>
+        <note>Вам выставлен новый счет</note>
+      </trans-unit>
+      <trans-unit id="Your comment">
+        <source>Your comment</source>
+        <target>Ваш комментарий</target>
+        <note>Ваш комментарий _2</note>
+      </trans-unit>
+      <trans-unit id="Your reports successfully sended">
+        <source>Your reports successfully sended</source>
+        <target>Ваши показания счетчиков успешно отправлены</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Your request successfully closed">
+        <source>Your request successfully closed</source>
+        <target>Ваша заявка успешно закрыта</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Your request successfully sended">
+        <source>Your request successfully sended</source>
+        <target>Ваша заявка успешно отправлена!</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="hours">
+        <source>hours</source>
+        <target>часов</target>
+        <note>часов</note>
+      </trans-unit>
+      <trans-unit id="left">
+        <source>left</source>
+        <target>Осталось</target>
+        <note>cjnfkjcm</note>
+      </trans-unit>
+      <trans-unit id="some string">
+        <source>some string</source>
+        <note>костыль</note>
+      </trans-unit>
+      <trans-unit id="while no bill">
+        <source>while no bill</source>
+        <target>Нет актуальных счетов</target>
+        <note>Нет актуальных счетов</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="PlatiDoTests/Info.plist" source-language="en" datatype="plaintext" target-language="ru">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.0" build-num="7A218"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleName">
+        <source>$(PRODUCT_NAME)</source>
+      </trans-unit>
+      <trans-unit id="CFBundleShortVersionString">
+        <source>1.0</source>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

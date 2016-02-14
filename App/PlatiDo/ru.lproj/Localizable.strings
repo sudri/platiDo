@@ -1,0 +1,326 @@
+/* No comment provided by engineer. */
+"Access denied" = "Доступ к функционалу запрещен для вашего аккаунта";
+
+/* No comment provided by engineer. */
+"Actual requests" = "Актуальные заявки";
+
+/* No comment provided by engineer. */
+"Address is not detailed enough" = "Найдено более 2х адресов удовлетворяющих полученным данным";
+
+/* No comment provided by engineer. */
+"Already voted" = "Пользователь уже проголосовал";
+
+/* No comment provided by engineer. */
+"Apartment not exists" = "Квартиры с указаным номером не существует";
+
+/* Квартира подтверждена */
+"Appartment Confirmed" = "Собственность подтверждена";
+
+/* Права НЕ подтверждены возможно ошибка сервиса */
+"Appartment not confirm" = "Права НЕ подтверждены возможно ошибка сервиса";
+
+/* No comment provided by engineer. */
+"Archive meetings" = "Прошедшие собрания";
+
+/* No comment provided by engineer. */
+"Archived data are not available" = "Архивных данных нет";
+
+/* No comment provided by engineer. */
+"Billing and Payment" = "Счета и оплата";
+
+/* No comment provided by engineer. */
+"Building does not belong to any company yet" = "Дом не привязан к управляющей компании";
+
+/* No comment provided by engineer. */
+"Cancel" = "Отмена";
+
+/* No comment provided by engineer. */
+"Change Password" = "Сменить пароль";
+
+/* No comment provided by engineer. */
+"Change Pin" = "Сменить PIN";
+
+/* No comment provided by engineer. */
+"Check current PIN" = "Введен неверный старый PIN";
+
+/* No comment provided by engineer. */
+"Close" = "Закрыть";
+
+/* No comment provided by engineer. */
+"Comments" = "Комментарии";
+
+/* No comment provided by engineer. */
+"Comments not available" = "Комментарии не досутпны";
+
+/* No comment provided by engineer. */
+"Counters" = "Счетчики и показания";
+
+/* Создать */
+"Create" = "Создать";
+
+/* No comment provided by engineer. */
+"Date of registration not available" = "Информация о дате регистрации показаний отсутствует";
+
+/* Текст Обсуждения */
+"Desussion text" = "Текст обсуждения";
+
+/* No comment provided by engineer. */
+"Discussion closed" = "Обсуждение уже закрыто";
+
+/* Обсуждения */
+"Discussions" = "Идеи и обсуждения";
+
+/* No comment provided by engineer. */
+"Done" = "Выбрать";
+
+/* Введите */
+"Enter" = "Ввести";
+
+/* Введите номер квартиры */
+"Enter flat number" = "Введите номер квартиры";
+
+/* Введите показания приборов учета */
+"Enter meter readings" = "Введите показания приборов учета";
+
+/* Введите показания */
+"Enter meters" = "Ввод показаний";
+
+/* No comment provided by engineer. */
+"Error" = "Ошибка";
+
+/* No comment provided by engineer. */
+"Exit" = "Выход";
+
+/* No comment provided by engineer. */
+"Failed to add address" = "Сбой при добавлении адреса на сервере";
+
+/* No comment provided by engineer. */
+"Failed to add user apartment" = "Сбой при добавлении квартиры на сервере";
+
+/* No comment provided by engineer. */
+"Failed to create user" = "Сбой в создании нового пользователя";
+
+/* No comment provided by engineer. */
+"Failed to get the data." = "Не удалось получить данные.";
+
+/* No comment provided by engineer. */
+"Failed to save data" = "Ошибка в сохранении данных на сервере";
+
+/* No comment provided by engineer. */
+"Failed to save ownership" = "Сбой в подтверждении квартиры на сервере";
+
+/* No comment provided by engineer. */
+"Failed to update user" = "Произошел сбой в обновлении пользователя на сервере";
+
+/* No comment provided by engineer. */
+"Failed to validate apartment ownership" = "Не удалось подтвердить владение квартирой";
+
+/* No comment provided by engineer. */
+"Fill in all the fields" = "Заполните все поля";
+
+/* No comment provided by engineer. */
+"Functionality is not working" = "Функционал не работает";
+
+/* No comment provided by engineer. */
+"Input description of the problem" = "Опишите проблему подробнее";
+
+/* No comment provided by engineer. */
+"Input your comment" = "Введите ваш комментарий";
+
+/* No comment provided by engineer. */
+"Invalid sign" = "Ошибка валидации на сервере";
+
+/* No comment provided by engineer. */
+"Invalid verification code" = "Неверный код авторизации";
+
+/* No comment provided by engineer. */
+"It is forbidden to like your comment" = "Нельзя лайкнуть свой комментарий";
+
+/* No comment provided by engineer. */
+"It is forbidden to like your discussion" = "Нельзя лайкнуть свое обсуждение";
+
+/* No comment provided by engineer. */
+"Meetings" = "Общие собрания";
+
+/* No comment provided by engineer. */
+"My requests" = "Мои заявки";
+
+/* No comment provided by engineer. */
+"Name" = "Имя";
+
+/* Нет обсуждений */
+"No Discussions" = "Нет обсуждений";
+
+/* Нет опросов */
+"No Vote" = "Нет опросов";
+
+/* No comment provided by engineer. */
+"No information about current meetings" = "На данный момент активные собрания отсутствуют";
+
+/* No comment provided by engineer. */
+"No information about past meetings" = "Нет информации о прошедших собраниях";
+
+/* Заявок нет */
+"No requests" = "Заявок нет";
+
+/* Не Успешно */
+"Not Success" = "Не Успешно";
+
+/* No comment provided by engineer. */
+"Notifications" = "Уведомления";
+
+/* No comment provided by engineer. */
+"PIN mismatch" = "PIN не совпадают";
+
+/* No comment provided by engineer. */
+"PIN must be 4 numbers" = "PIN должен состоять из 4 цифр";
+
+/* No comment provided by engineer. */
+"Password refreshed" = "Пароль сохранился";
+
+/* No comment provided by engineer. */
+"Password successfully changed" = "Пароль успешно сменен";
+
+/* Оплатить */
+"Pay" = "Оплатить";
+
+/* No comment provided by engineer. */
+"Payments available" = "Оплата недоступна";
+
+/* No comment provided by engineer. */
+"Phone already registered" = "Телефон уже зарегистрирован";
+
+/* No comment provided by engineer. */
+"Questions are invalid" = "Не удалось разобрать список вопросов либо он пуст";
+
+/* No comment provided by engineer. */
+"Quick access" = "Быстрый доступ";
+
+/* No comment provided by engineer. */
+"Quorum" = "Кворум достигнут";
+
+/* No comment provided by engineer. */
+"Receipt" = "Квитанция";
+
+/* No comment provided by engineer. */
+"Request already closed" = "Заявка уже закрыта";
+
+/* No comment provided by engineer. */
+"Request not found" = "Заявка не найдена";
+
+/* No comment provided by engineer. */
+"Search is unavailable" = "Поиск недоступен";
+
+/* No comment provided by engineer. */
+"Second Name" = "Отчество";
+
+/* No comment provided by engineer. */
+"Server error" = "Ошибка сервере";
+
+/* No comment provided by engineer. */
+"Settings" = "Настройки";
+
+/* No comment provided by engineer. */
+"Simple auth" = "Простая авторизация";
+
+/* No comment provided by engineer. */
+"Stats reporting forbidden" = "Показания уже сданы или период сдачи еще не начался";
+
+/* No comment provided by engineer. */
+"Street" = "Улица";
+
+/* No comment provided by engineer. */
+"Succesful" = "Успешно";
+
+/* Успешно */
+"Success" = "Успешно";
+
+/* No comment provided by engineer. */
+"Surname" = "Фамилия";
+
+"Commission fee for payment of " = "Комиссия за платеж ";
+
+/* No comment provided by engineer. */
+"TOTAL PAYABLE:" = "ВСЕГО К ОПЛАТЕ:";
+
+/* No comment provided by engineer. */
+"Today" = "Сегодня";
+
+/* No comment provided by engineer. */
+"Total:" = "Итого:";
+
+/* No comment provided by engineer. */
+"Unable to change the password" = "Пароль не сменен";
+
+/* No comment provided by engineer. */
+"Use authorization" = "Используйте авторизацию";
+
+/* No comment provided by engineer. */
+"User already exist" = "Пользователь уже существует";
+
+/* No comment provided by engineer. */
+"User already varified" = "Пользователь уже прошел авторизацию";
+
+/* No comment provided by engineer. */
+"User apartment already confirmed" = "Вы уже подтвердили номер квартиры";
+
+/* No comment provided by engineer. */
+"User apartment already exists" = "Пользователь уже привязан к этому адресу";
+
+/* No comment provided by engineer. */
+"User apartment ownership is not confirmed" = "Вам необходимо подтвердить собственность квартиры";
+
+/* No comment provided by engineer. */
+"User is not linked to a building" = "Ваш аккаунт не привязан к дому";
+
+/* No comment provided by engineer. */
+"User is not linked to building" = "Ваш аккаунт не связан с квартирой или домом";
+
+/* No comment provided by engineer. */
+"Validation error" = "Ошибка валидации данных";
+
+/* No comment provided by engineer. */
+"Verification attemts exceeded" = "Вы исчерпали лимит проверок";
+
+/* No comment provided by engineer. */
+"Verify ownership" = "Подтвердить право собственности";
+
+/* No comment provided by engineer. */
+"Vote" = "Голосовать";
+
+/* No comment provided by engineer. */
+"Vote N%d" = "Голосование по вопросу %d";
+
+/* No comment provided by engineer. */
+"Voting already closed" = "Опрос уже закрыт";
+
+/* No comment provided by engineer. */
+"Yesterday" = "Вчера";
+
+/* No comment provided by engineer. */
+"You need to input all counters report" = "Необходимо заполнить все поля показания счетчиков";
+
+/* Вам выставлен новый счет */
+"You put up a new bill" = "Вам выставлен новый счет";
+
+/* Ваш комментарий _2 */
+"Your comment" = "Ваш комментарий";
+
+/* No comment provided by engineer. */
+"Your reports successfully sended" = "Ваши показания счетчиков успешно отправлены";
+
+/* No comment provided by engineer. */
+"Your request successfully closed" = "Ваша заявка успешно закрыта";
+
+/* No comment provided by engineer. */
+"Your request successfully sended" = "Ваша заявка успешно отправлена!";
+
+/* No comment provided by engineer. */
+"hours" = "часов";
+
+/* осталось */
+"left" = "Осталось";
+
+/* Нет актуальных счетов */
+"while no bill" = "Нет актуальных счетов";
+

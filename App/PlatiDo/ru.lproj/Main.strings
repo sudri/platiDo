@@ -1,0 +1,357 @@
+/* Class = "UIButton"; normalTitle = "Join the meeting"; ObjectID = "1q0-x8-Gy6"; */
+"1q0-x8-Gy6.normalTitle" = "Войти в собрание";
+
+/* Class = "UIButton"; normalTitle = "Create discuss"; ObjectID = "2Fj-Fz-GwN"; */
+"2Fj-Fz-GwN.normalTitle" = "Создать обсуждение";
+
+/* Class = "UIButton"; normalTitle = "Add comment"; ObjectID = "3vx-sI-k4k"; */
+"3vx-sI-k4k.normalTitle" = "Отправить комментарий";
+
+/* Class = "UIButton"; normalTitle = "Create vote"; ObjectID = "4Ci-nO-Aio"; */
+"4Ci-nO-Aio.normalTitle" = "Создать опрос";
+
+/* Class = "UILabel"; text = "Variations:"; ObjectID = "4i1-c6-QNF"; */
+"4i1-c6-QNF.text" = "Варианты";
+
+/* Class = "UILabel"; text = "Applications & Reviews"; ObjectID = "4rg-RG-p5W"; */
+"4rg-RG-p5W.text" = "Заявки и отзывы";
+
+/* Class = "UITextField"; placeholder = "New Password"; ObjectID = "5Mu-kq-SCH"; */
+"5Mu-kq-SCH.placeholder" = "Новый пароль";
+
+/* Class = "UITextField"; placeholder = "Choose request type"; ObjectID = "5Td-QK-Ca6"; */
+"5Td-QK-Ca6.placeholder" = "Выберите тип проблемы";
+
+/* Class = "UILabel"; text = "Main page"; ObjectID = "6G6-Vp-pli"; */
+"6G6-Vp-pli.text" = "Мои Сервисы";
+
+/* Class = "UILabel"; text = "Offers & discussion"; ObjectID = "6Uy-S4-Om0"; */
+"6Uy-S4-Om0.text" = "Идеи и обсуждения";
+
+/* Class = "UISegmentedControl"; 6oc-SH-mbW.segmentTitles[0] = "Unpaid"; ObjectID = "6oc-SH-mbW"; */
+"6oc-SH-mbW.segmentTitles[0]" = "Неоплаченные";
+
+/* Class = "UISegmentedControl"; 6oc-SH-mbW.segmentTitles[1] = "Paid"; ObjectID = "6oc-SH-mbW"; */
+"6oc-SH-mbW.segmentTitles[1]" = "Оплаченные";
+
+/* Class = "UINavigationItem"; title = "Votes_3"; ObjectID = "7VJ-Lk-N3k"; */
+"7VJ-Lk-N3k.title" = "Опросы и голосования";
+
+/* Class = "UINavigationItem"; title = "Discussion"; ObjectID = "7tG-BQ-2E0"; */
+"7tG-BQ-2E0.title" = "Обсуждение";
+
+/* Class = "UITextField"; placeholder = "Confirm PIN"; ObjectID = "8B5-MX-qBY"; */
+"8B5-MX-qBY.placeholder" = "Подтвердите PIN";
+
+/* Class = "UILabel"; text = "Charged:"; ObjectID = "8v0-2U-nxn"; */
+"8v0-2U-nxn.text" = "Начислено";
+
+/* Class = "UILabel"; text = "Receipt № 07/2015"; ObjectID = "9By-UW-tLy"; */
+"9By-UW-tLy.text" = "Квитанция № 07/2015";
+
+/* Class = "UILabel"; text = "9"; ObjectID = "9TK-xx-uQI"; */
+"9TK-xx-uQI.text" = "9";
+
+/* Class = "UIButton"; normalTitle = "Vote"; ObjectID = "19g-uq-fpT"; */
+"19g-uq-fpT.normalTitle" = "Проголосовать";
+
+/* Class = "UILabel"; text = "Status"; ObjectID = "49U-04-02e"; */
+"49U-04-02e.text" = "Статус";
+
+/* Class = "UITableViewController"; title = "Notifications"; ObjectID = "69T-Vu-jse"; */
+"69T-Vu-jse.title" = "Уведомления";
+
+/* Class = "UIButton"; normalTitle = "Change Password"; ObjectID = "82D-yw-0Z6"; */
+"82D-yw-0Z6.normalTitle" = "Изменить пароль";
+
+/* Class = "UIButton"; normalTitle = "Close the request"; ObjectID = "A6d-NR-HhG"; */
+"A6d-NR-HhG.normalTitle" = "Закрыть заявку";
+
+/* Class = "UINavigationItem"; title = "Votes"; ObjectID = "AAz-Xd-GgI"; */
+"AAz-Xd-GgI.title" = "Опросы и голосования";
+
+/* Class = "UITextField"; placeholder = "Time"; ObjectID = "Ahm-aW-Obd"; */
+"Ahm-aW-Obd.placeholder" = "Время";
+
+/* Class = "UIButton"; normalTitle = "Send reports"; ObjectID = "AoQ-Kl-Ns7"; */
+"AoQ-Kl-Ns7.normalTitle" = "Отправить показания";
+
+/* Class = "UIButton"; normalTitle = "Change"; ObjectID = "Eji-mJ-VVK"; */
+"Eji-mJ-VVK.normalTitle" = "Изменить";
+
+/* Class = "UILabel"; text = "Recalculation:"; ObjectID = "F99-aF-DA0"; */
+"F99-aF-DA0.text" = "Перерасчет";
+
+/* Class = "UILabel"; text = "Payment type"; ObjectID = "GWs-LL-nbI"; */
+"GWs-LL-nbI.text" = "Вид платежа";
+
+/* Class = "UILabel"; text = "No actual vote"; ObjectID = "HEa-kV-c6O"; */
+"HEa-kV-c6O.text" = "Нет актуальных опросов";
+
+/* Class = "UIButton"; normalTitle = "Meeting details"; ObjectID = "HwN-YE-2lA"; */
+"HwN-YE-2lA.normalTitle" = "Подробности собрания";
+
+/* Class = "UINavigationItem"; title = "Notifications_"; ObjectID = "Ihz-3h-Bzz"; */
+"Ihz-3h-Bzz.title" = "Сообщения";
+
+/* Class = "UILabel"; text = "Wait manager responce ownership."; ObjectID = "Izp-Do-jad"; */
+"Izp-Do-jad.text" = "Спасибо, Ваша заявка принята. Проверка прав собственности будет осуществлена в ближайшее время. Вы получите уведомление о результате.";
+
+/* Class = "UILabel"; text = "Big title for ticket"; ObjectID = "JLv-X7-cTw"; */
+"JLv-X7-cTw.text" = "Заголовок заявки";
+
+/* Class = "UITextField"; placeholder = "Short description of problem"; ObjectID = "JtQ-Nz-1Ez"; */
+"JtQ-Nz-1Ez.placeholder" = "Краткое описание проблемы";
+
+/* Class = "UILabel"; text = "Finish vote after:"; ObjectID = "KHJ-5v-may"; */
+"KHJ-5v-may.text" = "Закончить опрос через:";
+
+/* Class = "UILabel"; text = "Norm.(rash)"; ObjectID = "L8w-Ho-oGK"; */
+"L8w-Ho-oGK.text" = "Норм.(расх)";
+
+/* Class = "UILabel"; text = "Park or playground? "; ObjectID = "LBQ-0H-1Am"; */
+"LBQ-0H-1Am.text" = "Парк или детская площадка";
+
+/* Class = "UIViewController"; title = "Change PIN"; ObjectID = "LOh-4V-dha"; */
+"LOh-4V-dha.title" = "Изменить PIN";
+
+/* Class = "UILabel"; text = "More than 35 operating companies work with"; ObjectID = "MKh-r5-xCN"; */
+"MKh-r5-xCN.text" = "Более 35 компаний работают с";
+
+/* Class = "UILabel"; text = "TOTAL PAYABLE: 6 304.13 ₽"; ObjectID = "MfD-nO-YmZ"; */
+"MfD-nO-YmZ.text" = "ИТОГО К ОПЛАТЕ: 6 304.13 ₽";
+
+/* Class = "UITextField"; placeholder = "New PIN"; ObjectID = "Nna-jt-8MN"; */
+"Nna-jt-8MN.placeholder" = "Новый PIN";
+
+/* Class = "UILabel"; text = "Changes on my request"; ObjectID = "Nuj-6I-vnL"; */
+"Nuj-6I-vnL.text" = "Изменения по моей заявке";
+
+/* Class = "UITextField"; placeholder = "Your comment"; ObjectID = "ONt-qK-80i"; */
+"ONt-qK-80i.placeholder" = "Ваш комментарий";
+
+/* Class = "UIButton"; normalTitle = "Close"; ObjectID = "P3w-ER-N0y"; */
+"P3w-ER-N0y.normalTitle" = "Закрыть";
+
+/* Class = "UIButton"; normalTitle = "Search"; ObjectID = "PAS-lM-rNF"; */
+"PAS-lM-rNF.normalTitle" = "Поиск";
+
+/* Class = "UILabel"; text = "Search receipts by date"; ObjectID = "PQh-f9-TYq"; */
+"PQh-f9-TYq.text" = "Поиск счета по дате";
+
+/* Class = "UIButton"; normalTitle = "Meeting protocol"; ObjectID = "PTx-L0-bkh"; */
+"PTx-L0-bkh.normalTitle" = "Протокол собрания";
+
+/* Class = "UILabel"; text = "Payer:"; ObjectID = "PjB-4j-Fvt"; */
+"PjB-4j-Fvt.text" = "Плательщик:";
+
+/* Class = "UILabel"; text = "Settings"; ObjectID = "Qve-Bk-bIT"; */
+"Qve-Bk-bIT.text" = "Настройки";
+
+/* Class = "UILabel"; text = "Charge for:"; ObjectID = "RNR-SZ-vx1"; */
+"RNR-SZ-vx1.text" = "Начислено за:";
+
+/* Class = "UILabel"; text = "Comments"; ObjectID = "RQI-WY-wAf"; */
+"RQI-WY-wAf.text" = "Комментарии";
+
+/* Class = "UITextField"; placeholder = "Flat area"; ObjectID = "Rnt-yb-B45"; */
+"Rnt-yb-B45.placeholder" = "Площадь квартиры";
+
+/* Class = "UITextField"; placeholder = "Current Password"; ObjectID = "SKK-F3-xqS"; */
+"SKK-F3-xqS.placeholder" = "Текущий пароль";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "SYO-9X-Veu"; */
+"SYO-9X-Veu.normalTitle" = "Отмена";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "Spt-5K-aJV"; */
+"Spt-5K-aJV.normalTitle" = "Отмена";
+
+/* Class = "UILabel"; text = "Messages"; ObjectID = "TGe-Kr-18M"; */
+"TGe-Kr-18M.text" = "Сообщения";
+
+/* Class = "UIButton"; normalTitle = "Close the request"; ObjectID = "UJL-f0-mY5"; */
+"UJL-f0-mY5.normalTitle" = "Закрыть заявку";
+
+/* Class = "UILabel"; text = "Commission fee for payment of 2%"; ObjectID = "Uha-O4-BDc"; */
+"Uha-O4-BDc.text" = "Комиссия за платеж - 2%";
+
+/* Class = "UINavigationItem"; title = "Add request"; ObjectID = "VX9-rt-zaW"; */
+"VX9-rt-zaW.title" = "Создание заявки";
+
+/* Class = "UILabel"; text = "Letting readings"; ObjectID = "VkL-eN-Uug"; */
+"VkL-eN-Uug.text" = "Сдача показаний";
+
+/* Class = "UILabel"; text = "Tariff"; ObjectID = "WL0-h7-Kvu"; */
+"WL0-h7-Kvu.text" = "Тариф";
+
+/* Class = "UILabel"; text = "Counters"; ObjectID = "WdW-gA-GCw"; */
+"WdW-gA-GCw.text" = "Счетчики и показания";
+
+/* Class = "UILabel"; text = "General meeting of owners"; ObjectID = "X1E-Db-H3R"; */
+"X1E-Db-H3R.text" = "Общие собрания";
+
+/* Class = "UILabel"; text = "June 2015"; ObjectID = "Xpa-Gh-hB0"; */
+"Xpa-Gh-hB0.text" = "Июль 2015";
+
+/* Class = "UILabel"; text = "Кто у нас так паркуется? будет пешком ходить!"; ObjectID = "YDf-oX-xWH"; */
+"YDf-oX-xWH.text" = "Заголовок обсуждения";
+
+/* Class = "UILabel"; text = "Total: 5 807.87 P"; ObjectID = "Ye0-JZ-vm7"; */
+"Ye0-JZ-vm7.text" = "Итого: 5 807.87 P";
+
+/* Class = "UILabel"; text = "Yersterday"; ObjectID = "a8A-68-ZDg"; */
+"a8A-68-ZDg.text" = "Вчера";
+
+/* Class = "UILabel"; text = "Price:"; ObjectID = "aOQ-6h-jgD"; */
+"aOQ-6h-jgD.text" = "Стоим.";
+
+/* Class = "UIButton"; normalTitle = "Pay"; ObjectID = "apc-ht-GJR"; */
+"apc-ht-GJR.normalTitle" = "Оплатить";
+
+/* Class = "UIButton"; normalTitle = "Confirm"; ObjectID = "bQd-6O-bi7"; */
+"bQd-6O-bi7.normalTitle" = "Подтвердить";
+
+/* Class = "UINavigationItem"; title = "Requests"; ObjectID = "bWJ-KN-VII"; */
+"bWJ-KN-VII.title" = "Заявки и отзывы";
+
+/* Class = "UITextField"; placeholder = "Number of flat"; ObjectID = "biJ-WJ-MCc"; */
+"biJ-WJ-MCc.placeholder" = "Номер квартиры";
+
+/* Class = "UINavigationItem"; title = "New discuss"; ObjectID = "bty-Er-Kn0"; */
+"bty-Er-Kn0.title" = "Новое обсуждение";
+
+/* Class = "UILabel"; text = "New address"; ObjectID = "cLu-Tf-9NZ"; */
+"cLu-Tf-9NZ.text" = "Новый адрес";
+
+/* Class = "UILabel"; text = "My Company"; ObjectID = "cSY-Rw-V0H"; */
+"cSY-Rw-V0H.text" = "Моя компания";
+
+/* Class = "UILabel"; text = "Exhibited a new account"; ObjectID = "dfG-l3-Gff"; */
+"dfG-l3-Gff.text" = "Выставлен новый счет";
+
+/* Class = "UITextField"; placeholder = "Year"; ObjectID = "ecW-id-qEG"; */
+"ecW-id-qEG.placeholder" = "Год";
+
+/* Class = "UIButton"; normalTitle = "Change PIN"; ObjectID = "fWc-kn-f3N"; */
+"fWc-kn-f3N.normalTitle" = "Изменить PIN";
+
+/* Class = "UILabel"; text = "Mobile phone:"; ObjectID = "g1l-Oh-g6T"; */
+"g1l-Oh-g6T.text" = "Телефон:";
+
+/* Class = "UILabel"; text = "Voting"; ObjectID = "giJ-fl-WB1"; */
+"giJ-fl-WB1.text" = "Опросы и голосования";
+
+/* Class = "UISegmentedControl"; hcX-9N-xJK.segmentTitles[0] = "Add report"; ObjectID = "hcX-9N-xJK"; */
+"hcX-9N-xJK.segmentTitles[0]" = "Сдача показаний";
+
+/* Class = "UISegmentedControl"; hcX-9N-xJK.segmentTitles[1] = "Archive reports"; ObjectID = "hcX-9N-xJK"; */
+"hcX-9N-xJK.segmentTitles[1]" = "Архив показаний";
+
+/* Class = "UILabel"; text = "Fedotov A.U."; ObjectID = "hdB-JC-5ru"; */
+"hdB-JC-5ru.text" = "Федотов А.Ю.";
+
+/* Class = "UITextField"; placeholder = "Part"; ObjectID = "hyf-Um-h28"; */
+"hyf-Um-h28.placeholder" = "Корп.";
+
+/* Class = "UIButton"; normalTitle = "Accepted desicions"; ObjectID = "iar-LI-JDY"; */
+"iar-LI-JDY.normalTitle" = "Принятые решения";
+
+/* Class = "UILabel"; text = "Status:"; ObjectID = "inf-LQ-XRT"; */
+"inf-LQ-XRT.text" = "Статус";
+
+/* Class = "UILabel"; text = "Tariff:"; ObjectID = "k4q-vN-2S7"; */
+"k4q-vN-2S7.text" = "Тариф:";
+
+/* Class = "UILabel"; text = "Rate the quolity of service"; ObjectID = "mE2-wN-Cg5"; */
+"mE2-wN-Cg5.text" = "Оцените качество выполненных работ";
+
+/* Class = "UITextField"; placeholder = "Confirm Password"; ObjectID = "mhF-jF-rVU"; */
+"mhF-jF-rVU.placeholder" = "Подтвердите пароль";
+
+/* Class = "UILabel"; text = "Billing  & Payment"; ObjectID = "nZS-Hd-oRf"; */
+"nZS-Hd-oRf.text" = "Счета и оплата";
+
+/* Class = "UILabel"; text = "Street"; ObjectID = "nzj-Ho-Zeo"; */
+"nzj-Ho-Zeo.text" = "Улица";
+
+/* Class = "UIViewController"; title = "Change Password"; ObjectID = "pW1-mk-OHH"; */
+"pW1-mk-OHH.title" = "Изменить пароль";
+
+/* Class = "UILabel"; text = "Accepted desicions"; ObjectID = "qPI-xE-Mea"; */
+"qPI-xE-Mea.text" = "Принятые решения";
+
+/* Class = "UILabel"; text = "A new poll"; ObjectID = "qlR-oB-LFT"; */
+"qlR-oB-LFT.text" = "Новый опрос";
+
+/* Class = "UIButton"; normalTitle = "Send problem"; ObjectID = "rLL-cU-h2V"; */
+"rLL-cU-h2V.normalTitle" = "Отправить заявку";
+
+/* Class = "UILabel"; text = "Charged"; ObjectID = "rNk-4l-Psy"; */
+"rNk-4l-Psy.text" = "Начисл.";
+
+/* Class = "UILabel"; text = "Adress:"; ObjectID = "rgd-XR-K79"; */
+"rgd-XR-K79.text" = "Адрес:";
+
+/* Class = "UIButton"; normalTitle = "Pay"; ObjectID = "rrf-8s-UDG"; */
+"rrf-8s-UDG.normalTitle" = "Оплатить";
+
+/* Class = "UIButton"; normalTitle = "Add variant"; ObjectID = "sBg-Dx-lFi"; */
+"sBg-Dx-lFi.normalTitle" = "Добавить вариант";
+
+/* Class = "UILabel"; text = "36 hours left."; ObjectID = "sXQ-Pw-bnq"; */
+"sXQ-Pw-bnq.text" = "Осталось 36 часов";
+
+/* Class = "UILabel"; text = "Commission fee for payment of 2%"; ObjectID = "scF-ou-Fdh"; */
+"scF-ou-Fdh.text" = "Комиссия за проведение платежа - 2%";
+
+/* Class = "UILabel"; text = "New post on my topic"; ObjectID = "suF-GB-KiS"; */
+"suF-GB-KiS.text" = "Новое сообщение по моей теме";
+
+/* Class = "UILabel"; text = "To participate in general meetings and making decisions you need to verify ownership"; ObjectID = "tfI-UH-ZC0"; */
+"tfI-UH-ZC0.text" = "Для участия в общих собраниях и принятия решений Вам необходимо подтвердить право собственности";
+
+/* Class = "UILabel"; text = "Unable to input counters reports"; ObjectID = "u3c-hM-WYM"; */
+"u3c-hM-WYM.text" = "Вы уже вводили показания счетчиков. Показания можно будет ввести с 1 по 10 число следующего месяца.";
+
+/* Class = "UILabel"; text = "New topic"; ObjectID = "u68-kf-M9L"; */
+"u68-kf-M9L.text" = "Новая тема для обсуждения";
+
+/* Class = "UITextField"; placeholder = "Home"; ObjectID = "uGL-Hp-Mre"; */
+"uGL-Hp-Mre.placeholder" = "Дом";
+
+/* Class = "UILabel"; text = "Exemption:"; ObjectID = "uRI-0F-EwC"; */
+"uRI-0F-EwC.text" = "Льгота";
+
+/* Class = "UITextField"; placeholder = "(input your comment)"; ObjectID = "upq-QR-izX"; */
+"upq-QR-izX.placeholder" = "(добавьте комментарий)";
+
+/* Class = "UILabel"; text = "Meeting closed"; ObjectID = "vTM-eN-cxm"; */
+"vTM-eN-cxm.text" = "Собрание завершено";
+
+/* Class = "UITextField"; placeholder = "Current PIN"; ObjectID = "vV4-bF-LXb"; */
+"vV4-bF-LXb.placeholder" = "Текущий PIN";
+
+/* Class = "UILabel"; text = "Payer:"; ObjectID = "vhH-Um-ElP"; */
+"vhH-Um-ElP.text" = "Плательщик:";
+
+/* Class = "UILabel"; text = "Confirmation of rights"; ObjectID = "vmv-cF-saf"; */
+"vmv-cF-saf.text" = "Подтверждение прав";
+
+/* Class = "UILabel"; text = "Tariff"; ObjectID = "xFO-0d-W2i"; */
+"xFO-0d-W2i.text" = "Тариф";
+
+/* Class = "UIButton"; normalTitle = "Assign new photo"; ObjectID = "xeo-dK-UoN"; */
+"xeo-dK-UoN.normalTitle" = "Добавить фото или документ";
+
+/* Class = "UILabel"; text = "Charge for:"; ObjectID = "yMM-uW-HQw"; */
+"yMM-uW-HQw.text" = "Начислено за:";
+
+/* Class = "UITextField"; placeholder = "Month"; ObjectID = "z4M-aO-hnF"; */
+"z4M-aO-hnF.placeholder" = "Месяц";
+
+/* Class = "UILabel"; text = "June 2015"; ObjectID = "zaC-Xe-Nfj"; */
+"zaC-Xe-Nfj.text" = "Июнь 2015";
+
+/* Class = "UITextField"; placeholder = "City"; ObjectID = "zgc-og-HNa"; */
+"zgc-og-HNa.placeholder" = "Город";
+
