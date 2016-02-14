@@ -16,7 +16,7 @@
             <string>Helvetica-Light</string>
             <string>Helvetica-Light</string>
         </mutableArray>
-        <mutableArray key="SF-UI-Display-Light.otf">
+        <mutableArray key="SF-UI-Display-Light.ttf">
             <string>SFUIDisplay-Light</string>
             <string>SFUIDisplay-Light</string>
             <string>SFUIDisplay-Light</string>
@@ -59,7 +59,7 @@
             <string>SFUIDisplay-Light</string>
             <string>SFUIDisplay-Light</string>
         </mutableArray>
-        <mutableArray key="SF-UI-Display-Medium.ttf">
+        <mutableArray key="SF-UI-Display-Medium.otf">
             <string>SFUIDisplay-Medium</string>
             <string>SFUIDisplay-Medium</string>
             <string>SFUIDisplay-Medium</string>
@@ -157,7 +157,7 @@
         <mutableArray key="SF-UI-Display-Semibold.ttf">
             <string>SFUIDisplay-Semibold</string>
         </mutableArray>
-        <mutableArray key="SF-UI-Display-Thin.otf">
+        <mutableArray key="SF-UI-Display-Thin.ttf">
             <string>SFUIDisplay-Thin</string>
             <string>SFUIDisplay-Thin</string>
             <string>SFUIDisplay-Thin</string>
@@ -172,7 +172,7 @@
         <mutableArray key="SF-UI-Text-Light.ttf">
             <string>SFUIText-Light</string>
         </mutableArray>
-        <mutableArray key="SF-UI-Text-Regular.ttf">
+        <mutableArray key="SF-UI-Text-Regular.otf">
             <string>SFUIText-Regular</string>
             <string>SFUIText-Regular</string>
         </mutableArray>
