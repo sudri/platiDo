@@ -24,7 +24,6 @@
                                                 
                                                        NSError* err = nil;
                                                        DashboardData* dashboardData = [[DashboardData alloc] initWithDictionary:responseObject error:&err];
-                                                       NSLog(@"err %@", err);
                                                        comBlock (dashboardData, nil);
                                                    } failure:^(NSError *error) {
                                                        

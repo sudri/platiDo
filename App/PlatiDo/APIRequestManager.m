@@ -34,7 +34,8 @@ static APIRequestManager *sInstance;
     dispatch_once(&onceKey, ^{
         sInstance = [[APIRequestManager alloc] init];
         sInstance.afManager = [AFHTTPRequestOperationManager manager];
-        [sInstance.afManager.requestSerializer setValue:[[NSLocale preferredLanguages] objectAtIndex:0] forHTTPHeaderField:@"Accept-Language"];
+        NSLog(@"%s %@",__PRETTY_FUNCTION__, [NSLocale preferredLanguages]);
+        [sInstance.afManager.requestSerializer setValue:@"ru-RU,en-US" forHTTPHeaderField:@"Accept-Language"];
         [sInstance.afManager.requestSerializer setValue:[UserAgent getUserAgent] forHTTPHeaderField:@"User-Agent"];
         
         NSString *version = [[[NSBundle mainBundle] infoDictionary] objectForKey:@"CFBundleShortVersionString"];
@@ -114,7 +115,7 @@ static APIRequestManager *sInstance;
                    requestType:(requestType)requestType
                        success:(void (^)(id responseObject))success
                        failure:(void (^)(NSError *error))failure{
-    @try {
+//    @try {
         [self clearCookie];
         
         NSString *APIURLMethod = [NSString stringWithFormat:@"%@%@", server, method];
@@ -128,7 +129,10 @@ static APIRequestManager *sInstance;
             [[UIApplication sharedApplication] setNetworkActivityIndicatorVisible:NO];
             
             NSData *responseData = [error.userInfo valueForKey:@"com.alamofire.serialization.response.error.data"];
-            NSString *myString = [[NSString alloc] initWithData:responseData encoding:NSUTF8StringEncoding];
+            
+            NSString *myString;
+            if (responseData)
+                myString = [[NSString alloc] initWithData:responseData encoding:NSUTF8StringEncoding];
             NSLog(@"respose error user info %@", myString);
             
             ErrorProcessing *errorProcessing = [[ErrorProcessing alloc] init];
@@ -138,6 +142,7 @@ static APIRequestManager *sInstance;
         };
         
         [[UIApplication sharedApplication] setNetworkActivityIndicatorVisible:YES];
+        NSLog(@"%@",self.afManager.requestSerializer.HTTPRequestHeaders);
         switch (requestType) {
             case requestTypeGet:{}
                 [self.afManager GET:APIURLMethod parameters:params success:successLocal failure:errorLocal];
@@ -152,12 +157,12 @@ static APIRequestManager *sInstance;
                 [self.afManager DELETE:APIURLMethod parameters:params success:successLocal failure:errorLocal];
                 break;
         }
-    }
-    
-    @catch (NSException *exception) {
-        NSLog(@"Exception in method %@ : %@", method, exception);
-        [[UIApplication sharedApplication] setNetworkActivityIndicatorVisible:NO];
-    }
+//    }
+//    
+//    @catch (NSException *exception) {
+//        NSLog(@"Exception in method %@ : %@", method, exception);
+//        [[UIApplication sharedApplication] setNetworkActivityIndicatorVisible:NO];
+//    }
 }
 
 

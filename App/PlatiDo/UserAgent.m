@@ -7,19 +7,29 @@
 //
 
 #import "UserAgent.h"
+#include <sys/utsname.h>
+@import UIKit;
+
 
 @implementation UserAgent
 
 + (NSString *) getUserAgent
 {
-//    NSString *uniqueStr = [[NSUserDefaults standardUserDefaults] stringForKey:@"uniqueStrForUA"];
-//    NSString *idfv = [[[UIDevice currentDevice] identifierForVendor] UUIDString];
-//    NSString *stringWithoutDefis = [idfv stringByReplacingOccurrencesOfString:@"-" withString:@""];
-//  
-//    NSString *userAgent = [NSString stringWithFormat:@"iOS|%@|%@|Apple||%@%@", [UIDevice currentDevice].systemVersion, [UIDevice deviceName], uniqueStr, stringWithoutDefis];
+    NSString *osVer = [[UIDevice currentDevice] systemVersion];
+    NSString *appVersion = [[NSBundle mainBundle] objectForInfoDictionaryKey:@"CFBundleShortVersionString"];
 
-    //NSLog(@"userAgent %@", userAgent);
-    return @"";
+    struct utsname u;
+    uname(&u);
+    char *type = u.machine;
+
+    NSString *strType = [NSString stringWithFormat:@"%s", type];
+
+    NSString *model = [NSString stringWithFormat:@"%@ %@", [[UIDevice currentDevice] model], strType];
+    NSDictionary *userDict = @{@"os" : @"iOs",
+    @"os_v" : osVer,
+    @"app_v" : appVersion,
+    @"model" : model};
+    return [userDict description];
 }
 
 @end
